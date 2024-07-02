@@ -21,12 +21,17 @@ class AchievementTemplateTb:
     def deobfuscate(self):
         if self.key_mapping is None:
             self.create_key_mapping()
-        deobfuscated_data = []
+        deobfuscated_data = {}
         for item in self.obfuscated[next(iter(self.obfuscated.keys()))]:
             deobfuscated_item = {}
+            id = None
             for obfuscated_key, value in item.items():
+                if self.key_mapping[obfuscated_key] == "ID":
+                    id = str(value)
                 deobfuscated_item[self.key_mapping[obfuscated_key]] = value
-            deobfuscated_data.append(deobfuscated_item)
+            if id is None:
+                raise ValueError("ID was not found!")
+            deobfuscated_data[id] = deobfuscated_item
         self.deobfuscated = deobfuscated_data
 
     def save_deobfuscated(self):
