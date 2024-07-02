@@ -1,0 +1,7 @@
+{
+  "AchievementTemplateTb": "AchievementID",
+  "AvatarBaseTemplateTb": "ID",
+  "EquipmentSuitTemplateTb": "ID",
+  "ItemTemplateTb": "ID",
+  "WeaponTemplateTb": "ItemID"
+}

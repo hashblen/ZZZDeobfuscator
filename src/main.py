@@ -1,8 +1,19 @@
 from deobf import Deobf
+import json
+import pathlib
+
+deobf_path = pathlib.Path("src/todeobf.json")
 
 if __name__ == '__main__':
-    Deobf("AchievementTemplateTb").save_deobfuscated(makeID="AchievementID")
-    Deobf("AvatarBaseTemplateTb").save_deobfuscated(makeID="ID")
-    Deobf("EquipmentSuitTemplateTb").save_deobfuscated(makeID="ID")
-    Deobf("ItemTemplateTb").save_deobfuscated(makeID="ID")
-    Deobf("WeaponTemplateTb").save_deobfuscated(makeID="ItemID")
+    with open(deobf_path, "r") as pairs_file:
+        pairs = json.load(pairs_file)
+    key_mappings = {}
+    for filename, make_id in pairs.items():
+        deobfer = Deobf(filename)
+        deobfer.save_deobfuscated(makeID=make_id if make_id != "None" else None)
+        for k1, v1 in key_mappings.items():
+            for k2, v2 in deobfer.key_mapping.items():
+                if k1 != k2 and v1 == v2:
+                    print(f"The dictionaries have the same value {v1} for different keys {k1}, {k2}")
+                    exit()
+        key_mappings |= deobfer.key_mapping
