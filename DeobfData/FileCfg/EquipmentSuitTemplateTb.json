@@ -5,8 +5,8 @@
     "Condition": 2,
     "SuitPropertys": [
       {
-        "IEKNHHOFCHL": 20103,
-        "LPOMPMJAFLK": 800
+        "Property": 20103,
+        "Value": 800
       }
     ],
     "ACIOBDLFFOK": 0,
@@ -26,8 +26,8 @@
     "Condition": 2,
     "SuitPropertys": [
       {
-        "IEKNHHOFCHL": 23103,
-        "LPOMPMJAFLK": 800
+        "Property": 23103,
+        "Value": 800
       }
     ],
     "ACIOBDLFFOK": 0,
@@ -47,8 +47,8 @@
     "Condition": 2,
     "SuitPropertys": [
       {
-        "IEKNHHOFCHL": 12202,
-        "LPOMPMJAFLK": 600
+        "Property": 12202,
+        "Value": 600
       }
     ],
     "ACIOBDLFFOK": 0,
@@ -68,8 +68,8 @@
     "Condition": 2,
     "SuitPropertys": [
       {
-        "IEKNHHOFCHL": 31203,
-        "LPOMPMJAFLK": 30
+        "Property": 31203,
+        "Value": 30
       }
     ],
     "ACIOBDLFFOK": 0,
@@ -89,8 +89,8 @@
     "Condition": 2,
     "SuitPropertys": [
       {
-        "IEKNHHOFCHL": 12102,
-        "LPOMPMJAFLK": 1000
+        "Property": 12102,
+        "Value": 1000
       }
     ],
     "ACIOBDLFFOK": 0,
@@ -110,8 +110,8 @@
     "Condition": 2,
     "SuitPropertys": [
       {
-        "IEKNHHOFCHL": 13102,
-        "LPOMPMJAFLK": 1600
+        "Property": 13102,
+        "Value": 1600
       }
     ],
     "ACIOBDLFFOK": 0,
@@ -131,8 +131,8 @@
     "Condition": 2,
     "SuitPropertys": [
       {
-        "IEKNHHOFCHL": 30502,
-        "LPOMPMJAFLK": 2000
+        "Property": 30502,
+        "Value": 2000
       }
     ],
     "ACIOBDLFFOK": 0,
@@ -152,8 +152,8 @@
     "Condition": 2,
     "SuitPropertys": [
       {
-        "IEKNHHOFCHL": 31603,
-        "LPOMPMJAFLK": 1000
+        "Property": 31603,
+        "Value": 1000
       }
     ],
     "ACIOBDLFFOK": 0,
@@ -173,8 +173,8 @@
     "Condition": 2,
     "SuitPropertys": [
       {
-        "IEKNHHOFCHL": 31903,
-        "LPOMPMJAFLK": 1000
+        "Property": 31903,
+        "Value": 1000
       }
     ],
     "ACIOBDLFFOK": 0,
@@ -194,8 +194,8 @@
     "Condition": 2,
     "SuitPropertys": [
       {
-        "IEKNHHOFCHL": 31803,
-        "LPOMPMJAFLK": 1000
+        "Property": 31803,
+        "Value": 1000
       }
     ],
     "ACIOBDLFFOK": 0,
@@ -215,8 +215,8 @@
     "Condition": 2,
     "SuitPropertys": [
       {
-        "IEKNHHOFCHL": 31703,
-        "LPOMPMJAFLK": 1000
+        "Property": 31703,
+        "Value": 1000
       }
     ],
     "ACIOBDLFFOK": 0,
@@ -236,8 +236,8 @@
     "Condition": 2,
     "SuitPropertys": [
       {
-        "IEKNHHOFCHL": 31503,
-        "LPOMPMJAFLK": 1000
+        "Property": 31503,
+        "Value": 1000
       }
     ],
     "ACIOBDLFFOK": 0,

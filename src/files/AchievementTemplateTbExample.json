@@ -1,7 +1,7 @@
 {
-  "ID": 1001002,
-  "Name": "AchievementName_1001002",
-  "Description": "AchievementDes_1001002",
+  "AchievementID": 1001002,
+  "AchievementName": "AchievementName_1001002",
+  "AchievementDes": "AchievementDes_1001002",
   "Type": 1,
   "Category": 1,
   "ImageID": "1203026001",
