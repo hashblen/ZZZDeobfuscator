@@ -1,0 +1,21 @@
+{
+  "ID": 31000,
+  "Name": "EquipmentSuit_31000_name",
+  "Condition": 2,
+  "SuitPropertys": [
+    {
+      "Property": 20103,
+      "Value": 800
+    }
+  ],
+  "ACIOBDLFFOK": 0,
+  "Description": "EquipmentSuit_31000_2_des",
+  "MIDOKLFEFOB": 4,
+  "HFFKEDDJFEF": [],
+  "PFIILPCIFCL": 50431000,
+  "JCAKNJLNPDM": "EquipmentSuit_31000_4_des",
+  "FNHCLMNMJJA": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWoodpeckerElectro_S.png",
+  "DJJNBIOLAEC": "EquipmentSuit_31000_story",
+  "LCMAHDLDCBN": "EquipmentSuit_31000_SuitFilterOption",
+  "CBNEDJNAOBO": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWoodpeckerElectro.png"
+}

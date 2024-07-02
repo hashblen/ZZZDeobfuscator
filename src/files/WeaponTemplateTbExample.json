@@ -1,0 +1,37 @@
+{
+  "ItemID": 12001,
+  "LAFKHMCKNIO": "Weapon_B_Common_01",
+  "Type": 0,
+  "BaseProperty": {
+    "Property": 12101,
+    "Value": 32
+  },
+  "RandProperty": {
+    "Property": 12102,
+    "Value": 800
+  },
+  "StarLimit": 4,
+  "ExpRecycle": 300,
+  "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
+  "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_01",
+  "NGDEOGDBFEB": 0,
+  "GMAKJBPAACK": "Weapon/Weapon_B_Common_01",
+  "RefineCosts": [
+    {
+      "ItemID": 10,
+      "Number": 1000
+    }
+  ],
+  "RefineInitial": 1,
+  "RefineLimit": 5,
+  "EPPLIFAMAEJ": 0,
+  "IOGIHONJOMF": 0,
+  "CHFEMALKLBL": "10:7200,101010:2|10:16800,101020:7|10:36000,101020:12|10:60000,101030:6|10:120000,101030:12",
+  "JHLGOMEOANO": 0,
+  "LJONANJGEOI": 1,
+  "AbilityDes": "Item_Weapon_B_Common_01_Desc",
+  "DBIIAEFJHDA": "",
+  "GDHEDCOCFAF": "",
+  "AvatarID": 0,
+  "BLGOKKBDIOO": ""
+}
