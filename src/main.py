@@ -10,7 +10,7 @@ if __name__ == '__main__':
     key_mappings = {}
     for filename, make_id in pairs.items():
         deobfer = Deobf(filename)
-        deobfer.save_deobfuscated(makeID=make_id if make_id != "None" else None)
+        deobfer.do(makeID=make_id if make_id != "None" else None)
         for k1, v1 in key_mappings.items():
             for k2, v2 in deobfer.key_mapping.items():
                 if k1 != k2 and v1 == v2:

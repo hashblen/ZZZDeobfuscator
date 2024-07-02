@@ -32,7 +32,7 @@ class Deobf:
 
     def deobfuscate(self, makeID=None):
         if self.key_mapping is None:
-            self.create_key_mapping()
+            raise ValueError("key_mapping not created yet")
         deobfuscated_data = {}
         for item in self.obfuscated[next(iter(self.obfuscated.keys()))]:
             deobfuscated_item = self._deobfuscate_item(item)
@@ -58,7 +58,12 @@ class Deobf:
                 deobfuscated_item[deobfuscated_key] = value
         return deobfuscated_item
 
-    def save_deobfuscated(self, makeID=None):
+    def save_deobfuscated(self):
         if self.deobfuscated is None:
-            self.deobfuscate(makeID=makeID)
+            raise ValueError("Not deobfed yet")
         tools.write_deobfuscated(self.deobfuscated, self.name + ".json")
+
+    def do(self, makeID=None):
+        self.create_key_mapping()
+        self.deobfuscate(makeID=makeID)
+        self.save_deobfuscated()
