@@ -1,0 +1,21 @@
+{
+  "ID": 1011,
+  "CodeName": "Avatar_Female_Size02_Anbi_En",
+  "Name": "Avatar_Female_Size02_Anbi",
+  "FullName": "Avatar_Female_Size02_Anbi_FullName",
+  "AudioEventReplaceParam": "anbi",
+  "AudioBank": "BK_Anbi|BK_CHR_Common|BK_Anbi_VO",
+  "HitTypes": [
+    101
+  ],
+  "ElementTypes": [
+    203
+  ],
+  "FCDEDAOHMIO": 2,
+  "Gender": 2,
+  "Camp": 1,
+  "HMPHAKDLANI": [
+    "1:1:2",
+    "2:203:2"
+  ]
+}

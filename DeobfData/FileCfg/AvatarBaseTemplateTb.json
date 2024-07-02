@@ -1,0 +1,527 @@
+{
+  "1011": {
+    "ID": 1011,
+    "CodeName": "Avatar_Female_Size02_Anbi_En",
+    "Name": "Avatar_Female_Size02_Anbi",
+    "FullName": "Avatar_Female_Size02_Anbi_FullName",
+    "AudioEventReplaceParam": "anbi",
+    "AudioBank": "BK_Anbi|BK_CHR_Common|BK_Anbi_VO",
+    "HitTypes": [
+      101
+    ],
+    "ElementTypes": [
+      203
+    ],
+    "FCDEDAOHMIO": 2,
+    "Gender": 2,
+    "Camp": 1,
+    "HMPHAKDLANI": [
+      "1:1:2",
+      "2:203:2"
+    ]
+  },
+  "1021": {
+    "ID": 1021,
+    "CodeName": "Avatar_Female_Size01_Tsubaki_En",
+    "Name": "Avatar_Female_Size01_Tsubaki",
+    "FullName": "Avatar_Female_Size01_Tsubaki_FullName",
+    "AudioEventReplaceParam": "tsubaki",
+    "AudioBank": "BK_Tsubaki|BK_CHR_Common|BK_Tsubaki_VO",
+    "HitTypes": [
+      101
+    ],
+    "ElementTypes": [
+      200
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 2,
+    "Camp": 1,
+    "HMPHAKDLANI": [
+      "1:1:2",
+      "2:200:2"
+    ]
+  },
+  "1031": {
+    "ID": 1031,
+    "CodeName": "Avatar_Female_Size02_Nostradamus_En",
+    "Name": "Avatar_Female_Size02_Nostradamus",
+    "FullName": "Avatar_Female_Size02_Nostradamus_FullName",
+    "AudioEventReplaceParam": "nicole",
+    "AudioBank": "BK_Nicole|BK_CHR_Common|BK_Nicole_VO",
+    "HitTypes": [
+      102
+    ],
+    "ElementTypes": [
+      205
+    ],
+    "FCDEDAOHMIO": 4,
+    "Gender": 2,
+    "Camp": 1,
+    "HMPHAKDLANI": [
+      "1:1:2",
+      "2:205:2"
+    ]
+  },
+  "1041": {
+    "ID": 1041,
+    "CodeName": "Avatar_Female_Size02_Longinus_En",
+    "Name": "Avatar_Female_Size02_Longinus",
+    "FullName": "Avatar_Female_Size02_Longinus_FullName",
+    "AudioEventReplaceParam": "longinus",
+    "AudioBank": "BK_Longinus|BK_CHR_Common|BK_Longinus_VO",
+    "HitTypes": [
+      101
+    ],
+    "ElementTypes": [
+      201
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 2,
+    "Camp": 5,
+    "HMPHAKDLANI": [
+      "1:5:2",
+      "2:201:2"
+    ]
+  },
+  "1061": {
+    "ID": 1061,
+    "CodeName": "Avatar_Female_Size01_Corin_En",
+    "Name": "Avatar_Female_Size01_Corin",
+    "FullName": "Avatar_Female_Size01_Corin_FullName",
+    "AudioEventReplaceParam": "corin",
+    "AudioBank": "BK_Corin|BK_CHR_Common|BK_Corin_VO",
+    "HitTypes": [
+      101
+    ],
+    "ElementTypes": [
+      200
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 2,
+    "Camp": 2,
+    "HMPHAKDLANI": [
+      "1:2:2",
+      "2:200:2"
+    ]
+  },
+  "1081": {
+    "ID": 1081,
+    "CodeName": "Avatar_Male_Size03_Billy_En",
+    "Name": "Avatar_Male_Size03_Billy",
+    "FullName": "Avatar_Male_Size03_Billy_FullName",
+    "AudioEventReplaceParam": "billy",
+    "AudioBank": "BK_Billy|BK_CHR_Common|BK_Billy_VO",
+    "HitTypes": [
+      103
+    ],
+    "ElementTypes": [
+      200
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 1,
+    "Camp": 1,
+    "HMPHAKDLANI": [
+      "1:1:2",
+      "2:200:2"
+    ]
+  },
+  "1091": {
+    "ID": 1091,
+    "CodeName": "Avatar_Female_Size02_Unagi_En",
+    "Name": "Avatar_Female_Size02_Unagi",
+    "FullName": "Avatar_Female_Size02_Unagi_FullName",
+    "AudioEventReplaceParam": "unagi",
+    "AudioBank": "BK_Unagi|BK_CHR_Common|BK_Unagi_VO",
+    "HitTypes": [
+      101
+    ],
+    "ElementTypes": [
+      202
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 2,
+    "Camp": 6,
+    "HMPHAKDLANI": [
+      "1:6:2",
+      "2:202:2"
+    ]
+  },
+  "1101": {
+    "ID": 1101,
+    "CodeName": "Avatar_Female_Size01_OokumaMari_En",
+    "Name": "Avatar_Female_Size01_OokumaMari",
+    "FullName": "Avatar_Female_Size01_OokumaMari_FullName",
+    "AudioEventReplaceParam": "koleda",
+    "AudioBank": "BK_Koleda|BK_CHR_Common|BK_Koleda_VO",
+    "HitTypes": [
+      102
+    ],
+    "ElementTypes": [
+      201
+    ],
+    "FCDEDAOHMIO": 2,
+    "Gender": 2,
+    "Camp": 3,
+    "HMPHAKDLANI": [
+      "1:3:2",
+      "2:201:2"
+    ]
+  },
+  "1111": {
+    "ID": 1111,
+    "CodeName": "Avatar_Male_Size03_Anton_En",
+    "Name": "Avatar_Male_Size03_Anton",
+    "FullName": "Avatar_Male_Size03_Anton_FullName",
+    "AudioEventReplaceParam": "anton",
+    "AudioBank": "BK_Anton|BK_CHR_Common|BK_Anton_VO",
+    "HitTypes": [
+      103
+    ],
+    "ElementTypes": [
+      203
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 1,
+    "Camp": 3,
+    "HMPHAKDLANI": [
+      "1:3:2",
+      "2:203:2"
+    ]
+  },
+  "1121": {
+    "ID": 1121,
+    "CodeName": "Avatar_Male_Size03_Ben_En",
+    "Name": "Avatar_Male_Size03_Ben",
+    "FullName": "Avatar_Male_Size03_Ben_FullName",
+    "AudioEventReplaceParam": "ben",
+    "AudioBank": "BK_Ben|BK_CHR_Common|BK_Ben_VO",
+    "HitTypes": [
+      102
+    ],
+    "ElementTypes": [
+      201
+    ],
+    "FCDEDAOHMIO": 5,
+    "Gender": 1,
+    "Camp": 3,
+    "HMPHAKDLANI": [
+      "1:3:2",
+      "2:201:2"
+    ]
+  },
+  "1131": {
+    "ID": 1131,
+    "CodeName": "Avatar_Female_Size01_Aokaku_En",
+    "Name": "Avatar_Female_Size01_Aokaku",
+    "FullName": "Avatar_Female_Size01_Aokaku_FullName",
+    "AudioEventReplaceParam": "aokaku",
+    "AudioBank": "BK_Aokaku|BK_CHR_Common|BK_Aokaku_VO",
+    "HitTypes": [
+      101
+    ],
+    "ElementTypes": [
+      202
+    ],
+    "FCDEDAOHMIO": 4,
+    "Gender": 2,
+    "Camp": 6,
+    "HMPHAKDLANI": [
+      "1:6:2",
+      "2:202:2"
+    ]
+  },
+  "1141": {
+    "ID": 1141,
+    "CodeName": "Avatar_Male_Size03_Lycaon_En",
+    "Name": "Avatar_Male_Size03_Lycaon",
+    "FullName": "Avatar_Male_Size03_Lycaon_FullName",
+    "AudioEventReplaceParam": "lycaon",
+    "AudioBank": "BK_Lycaon|BK_CHR_Common|BK_Lycaon_VO",
+    "HitTypes": [
+      102
+    ],
+    "ElementTypes": [
+      202
+    ],
+    "FCDEDAOHMIO": 2,
+    "Gender": 1,
+    "Camp": 2,
+    "HMPHAKDLANI": [
+      "1:2:2",
+      "2:202:2"
+    ]
+  },
+  "1151": {
+    "ID": 1151,
+    "CodeName": "Avatar_Female_Size01_Lucy_En",
+    "Name": "Avatar_Female_Size01_Lucy",
+    "FullName": "Avatar_Female_Size01_Lucy_FullName",
+    "AudioEventReplaceParam": "lucy",
+    "AudioBank": "BK_Lucy|BK_CHR_Common|BK_Lucy_VO",
+    "HitTypes": [
+      102
+    ],
+    "ElementTypes": [
+      201
+    ],
+    "FCDEDAOHMIO": 4,
+    "Gender": 2,
+    "Camp": 4,
+    "HMPHAKDLANI": [
+      "1:4:2",
+      "2:201:2"
+    ]
+  },
+  "1161": {
+    "ID": 1161,
+    "CodeName": "Avatar_Male_Size02_Lighter_En",
+    "Name": "Avatar_Male_Size02_Lighter",
+    "FullName": "Avatar_Male_Size02_Lighter_FullName",
+    "AudioEventReplaceParam": "lighter",
+    "AudioBank": "BK_Lighter|BK_CHR_Common|BK_Lighter_VO",
+    "HitTypes": [
+      102
+    ],
+    "ElementTypes": [
+      201
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 1,
+    "Camp": 4,
+    "HMPHAKDLANI": [
+      "1:4:2",
+      "2:201:2"
+    ]
+  },
+  "1181": {
+    "ID": 1181,
+    "CodeName": "Avatar_Female_Size03_Lisa_En",
+    "Name": "Avatar_Female_Size03_Lisa",
+    "FullName": "Avatar_Female_Size03_Lisa_FullName",
+    "AudioEventReplaceParam": "lisa",
+    "AudioBank": "BK_Lisa|BK_CHR_Common|BK_Lisa_VO",
+    "HitTypes": [
+      103
+    ],
+    "ElementTypes": [
+      203
+    ],
+    "FCDEDAOHMIO": 3,
+    "Gender": 2,
+    "Camp": 3,
+    "HMPHAKDLANI": [
+      "1:3:2",
+      "2:203:2"
+    ]
+  },
+  "1191": {
+    "ID": 1191,
+    "CodeName": "Avatar_Female_Size02_Ellen_En",
+    "Name": "Avatar_Female_Size02_Ellen",
+    "FullName": "Avatar_Female_Size02_Ellen_FullName",
+    "AudioEventReplaceParam": "ellen",
+    "AudioBank": "BK_Ellen|BK_CHR_Common|BK_Ellen_VO",
+    "HitTypes": [
+      101
+    ],
+    "ElementTypes": [
+      202
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 2,
+    "Camp": 2,
+    "HMPHAKDLANI": [
+      "1:2:2",
+      "2:202:2"
+    ]
+  },
+  "1201": {
+    "ID": 1201,
+    "CodeName": "Avatar_Male_Size01_Harumasa_En",
+    "Name": "Avatar_Male_Size01_Harumasa",
+    "FullName": "Avatar_Male_Size01_Harumasa_FullName",
+    "AudioEventReplaceParam": "harumasa",
+    "AudioBank": "BK_Harumasa|BK_CHR_Common|BK_Harumasa_VO",
+    "HitTypes": [
+      103
+    ],
+    "ElementTypes": [
+      203
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 1,
+    "Camp": 6,
+    "HMPHAKDLANI": [
+      "1:6:2",
+      "2:200:2"
+    ]
+  },
+  "1211": {
+    "ID": 1211,
+    "CodeName": "Avatar_Female_Size03_Rina_En",
+    "Name": "Avatar_Female_Size03_Rina",
+    "FullName": "Avatar_Female_Size03_Rina_FullName",
+    "AudioEventReplaceParam": "rina",
+    "AudioBank": "BK_Rina|BK_CHR_Common|BK_Rina_VO",
+    "HitTypes": [
+      102
+    ],
+    "ElementTypes": [
+      203
+    ],
+    "FCDEDAOHMIO": 4,
+    "Gender": 2,
+    "Camp": 2,
+    "HMPHAKDLANI": [
+      "1:2:2",
+      "2:203:2"
+    ]
+  },
+  "1221": {
+    "ID": 1221,
+    "CodeName": "Avatar_Female_Size03_Yanagi_En",
+    "Name": "Avatar_Female_Size03_Yanagi",
+    "FullName": "Avatar_Female_Size03_Yanagi_FullName",
+    "AudioEventReplaceParam": "yanagi",
+    "AudioBank": "BK_Yanagi|BK_CHR_Common|BK_Yanagi_VO",
+    "HitTypes": [
+      101
+    ],
+    "ElementTypes": [
+      203
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 2,
+    "Camp": 6,
+    "HMPHAKDLANI": [
+      "1:6:2",
+      "2:205:2"
+    ]
+  },
+  "1241": {
+    "ID": 1241,
+    "CodeName": "Avatar_Female_Size03_ZhuYuan_En",
+    "Name": "Avatar_Female_Size03_ZhuYuan",
+    "FullName": "Avatar_Female_Size03_ZhuYuan_FullName",
+    "AudioEventReplaceParam": "ZhuYuan",
+    "AudioBank": "BK_ZhuYuan|BK_CHR_Common|BK_ZhuYuan_VO",
+    "HitTypes": [
+      103
+    ],
+    "ElementTypes": [
+      205
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 2,
+    "Camp": 7,
+    "HMPHAKDLANI": [
+      "1:7:2",
+      "3:4:1"
+    ]
+  },
+  "1251": {
+    "ID": 1251,
+    "CodeName": "Avatar_Female_Size01_QingYi_En",
+    "Name": "Avatar_Female_Size01_QingYi",
+    "FullName": "Avatar_Female_Size01_QingYi_FullName",
+    "AudioEventReplaceParam": "qingyi",
+    "AudioBank": "BK_QingYi|BK_CHR_Common|BK_QingYi_VO",
+    "HitTypes": [
+      102
+    ],
+    "ElementTypes": [
+      203
+    ],
+    "FCDEDAOHMIO": 2,
+    "Gender": 2,
+    "Camp": 7,
+    "HMPHAKDLANI": [
+      "1:7:2",
+      "2:203:2"
+    ]
+  },
+  "1271": {
+    "ID": 1271,
+    "CodeName": "Avatar_Male_Size01_Seth_En",
+    "Name": "Avatar_Male_Size01_Seth",
+    "FullName": "Avatar_Male_Size01_Seth_FullName",
+    "AudioEventReplaceParam": "seth",
+    "AudioBank": "BK_Seth|BK_CHR_Common|BK_Seth_VO",
+    "HitTypes": [
+      101
+    ],
+    "ElementTypes": [
+      203
+    ],
+    "FCDEDAOHMIO": 5,
+    "Gender": 1,
+    "Camp": 7,
+    "HMPHAKDLANI": [
+      "1:7:2",
+      "2:203:2"
+    ]
+  },
+  "1281": {
+    "ID": 1281,
+    "CodeName": "Avatar_Female_Size01_Clara_En",
+    "Name": "Avatar_Female_Size01_Clara",
+    "FullName": "Avatar_Female_Size01_Clara_FullName",
+    "AudioEventReplaceParam": "clara",
+    "AudioBank": "BK_Clara|BK_CHR_Common|BK_Clara_VO",
+    "HitTypes": [
+      101
+    ],
+    "ElementTypes": [
+      200
+    ],
+    "FCDEDAOHMIO": 3,
+    "Gender": 2,
+    "Camp": 4,
+    "HMPHAKDLANI": [
+      "1:4:2",
+      "2:200:2"
+    ]
+  },
+  "2011": {
+    "ID": 2011,
+    "CodeName": "Avatar_Male_Size01_Wise_En",
+    "Name": "Avatar_Male_Size01_Wise",
+    "FullName": "Avatar_Male_Size01_Wise_FullName",
+    "AudioEventReplaceParam": "wise",
+    "AudioBank": "BK_Wise",
+    "HitTypes": [
+      0
+    ],
+    "ElementTypes": [
+      1
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 1,
+    "Camp": 0,
+    "HMPHAKDLANI": [
+      "1:0:2",
+      "2:1:2"
+    ]
+  },
+  "2021": {
+    "ID": 2021,
+    "CodeName": "Avatar_Female_Size02_Belle_En",
+    "Name": "Avatar_Female_Size02_Belle",
+    "FullName": "Avatar_Female_Size02_Belle_FullName",
+    "AudioEventReplaceParam": "belle",
+    "AudioBank": "BK_Belle",
+    "HitTypes": [
+      0
+    ],
+    "ElementTypes": [
+      1
+    ],
+    "FCDEDAOHMIO": 1,
+    "Gender": 2,
+    "Camp": 0,
+    "HMPHAKDLANI": [
+      "1:0:2",
+      "2:1:2"
+    ]
+  }
+}

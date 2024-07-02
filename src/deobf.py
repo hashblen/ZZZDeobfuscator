@@ -1,11 +1,9 @@
-import json
-
 import tools
 
 
-class AchievementTemplateTb:
-    def __init__(self):
-        self.name = "AchievementTemplateTb"
+class Deobf:
+    def __init__(self, name):
+        self.name = name
         self.obfuscated = tools.read_obfuscated(self.name + ".json")
         self.example = tools.read_example(self.name + "Example.json")
         self.deobfuscated = None
@@ -18,7 +16,7 @@ class AchievementTemplateTb:
                 key_mapping[obfuscated_key] = deobfuscated_key
         self.key_mapping = key_mapping
 
-    def deobfuscate(self):
+    def deobfuscate(self, makeID=None):
         if self.key_mapping is None:
             self.create_key_mapping()
         deobfuscated_data = {}
@@ -26,15 +24,15 @@ class AchievementTemplateTb:
             deobfuscated_item = {}
             id = None
             for obfuscated_key, value in item.items():
-                if self.key_mapping[obfuscated_key] == "ID":
+                if makeID is not None and self.key_mapping[obfuscated_key] == makeID:
                     id = str(value)
                 deobfuscated_item[self.key_mapping[obfuscated_key]] = value
-            if id is None:
+            if makeID is not None and id is None:
                 raise ValueError("ID was not found!")
             deobfuscated_data[id] = deobfuscated_item
         self.deobfuscated = deobfuscated_data
 
-    def save_deobfuscated(self):
+    def save_deobfuscated(self, makeID=None):
         if self.deobfuscated is None:
-            self.deobfuscate()
+            self.deobfuscate(makeID=makeID)
         tools.write_deobfuscated(self.deobfuscated, self.name + ".json")

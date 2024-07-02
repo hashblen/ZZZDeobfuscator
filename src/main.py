@@ -1,4 +1,5 @@
-from files.AchievementTemplateTb import AchievementTemplateTb
+from deobf import Deobf
 
 if __name__ == '__main__':
-    AchievementTemplateTb().save_deobfuscated()
+    Deobf("AchievementTemplateTb").save_deobfuscated(makeID="ID")
+    Deobf("AvatarBaseTemplateTb").save_deobfuscated(makeID="ID")
