@@ -3,5 +3,6 @@
   "AvatarBaseTemplateTb": "ID",
   "EquipmentSuitTemplateTb": "ID",
   "ItemTemplateTb": "ID",
-  "WeaponTemplateTb": "ItemID"
+  "WeaponTemplateTb": "ItemID",
+  "OnceRewardTemplateTb": "RewardID"
 }

@@ -27,8 +27,9 @@ class Deobf:
         return key_mapping
 
     def create_key_mapping(self):
-        self.key_mapping = self._create_key_mapping(self.obfuscated[next(iter(self.obfuscated.keys()))][0],
-                                                    self.example)
+        self.key_mapping = {}
+        for obfuscated_item in self.obfuscated[next(iter(self.obfuscated.keys()))]:
+            self.key_mapping |= self._create_key_mapping(obfuscated_item, self.example)
 
     def deobfuscate(self, makeID=None):
         if self.key_mapping is None:
