@@ -8,5 +8,6 @@
   "DamageHitTypeConfigTemplateTb": "DamageHitTypeID",
   "DamageElementConfigTemplateTb": "DamageElementID",
   "CampConstTemplateTb": "Camp",
-  "AccessConfigTemplateTb": "AccessID"
+  "AccessConfigTemplateTb": "AccessID",
+  "ItemClassTemplateTb": "Class"
 }

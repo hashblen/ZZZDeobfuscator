@@ -1,0 +1,278 @@
+{
+  "1": {
+    "Class": 1,
+    "ClassNameEn": "ItemClass_name_1",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 10001
+  },
+  "2": {
+    "Class": 2,
+    "ClassNameEn": "ItemClass_name_2",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "3": {
+    "Class": 3,
+    "ClassNameEn": "ItemClass_name_3",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 10000
+  },
+  "4": {
+    "Class": 4,
+    "ClassNameEn": "ItemClass_name_4",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 99999
+  },
+  "5": {
+    "Class": 5,
+    "ClassNameEn": "ItemClass_name_5",
+    "GIOPHBLNJAB": 2000,
+    "DGLABLAJHAK": 80000
+  },
+  "7": {
+    "Class": 7,
+    "ClassNameEn": "ItemClass_name_7",
+    "GIOPHBLNJAB": 3000,
+    "DGLABLAJHAK": 79999
+  },
+  "8": {
+    "Class": 8,
+    "ClassNameEn": "ItemClass_name_8",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 90000
+  },
+  "9": {
+    "Class": 9,
+    "ClassNameEn": "ItemClass_name_9",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 89999
+  },
+  "10": {
+    "Class": 10,
+    "ClassNameEn": "ItemClass_name_10",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 75000
+  },
+  "11": {
+    "Class": 11,
+    "ClassNameEn": "ItemClass_name_11",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 110
+  },
+  "12": {
+    "Class": 12,
+    "ClassNameEn": "ItemClass_name_12",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 74999
+  },
+  "13": {
+    "Class": 13,
+    "ClassNameEn": "ItemClass_name_13",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 74997
+  },
+  "14": {
+    "Class": 14,
+    "ClassNameEn": "ItemClass_name_14",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 74996
+  },
+  "15": {
+    "Class": 15,
+    "ClassNameEn": "ItemClass_name_15",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "16": {
+    "Class": 16,
+    "ClassNameEn": "ItemClass_name_16",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "17": {
+    "Class": 17,
+    "ClassNameEn": "ItemClass_name_17",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 74998
+  },
+  "18": {
+    "Class": 18,
+    "ClassNameEn": "ItemClass_name_18",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 10002
+  },
+  "19": {
+    "Class": 19,
+    "ClassNameEn": "ItemClass_name_19",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "20": {
+    "Class": 20,
+    "ClassNameEn": "ItemClass_name_20",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "21": {
+    "Class": 21,
+    "ClassNameEn": "ItemClass_name_21",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "22": {
+    "Class": 22,
+    "ClassNameEn": "ItemClass_name_22",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "23": {
+    "Class": 23,
+    "ClassNameEn": "ItemClass_name_23",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "28": {
+    "Class": 28,
+    "ClassNameEn": "ItemClass_name_7",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "29": {
+    "Class": 29,
+    "ClassNameEn": "ItemClass_name_29",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "31": {
+    "Class": 31,
+    "ClassNameEn": "ItemClass_name_31",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "32": {
+    "Class": 32,
+    "ClassNameEn": "ItemClass_name_32",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "33": {
+    "Class": 33,
+    "ClassNameEn": "ItemClass_name_33",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "34": {
+    "Class": 34,
+    "ClassNameEn": "ItemClass_name_34",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "35": {
+    "Class": 35,
+    "ClassNameEn": "ItemClass_name_35",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "36": {
+    "Class": 36,
+    "ClassNameEn": "ItemClass_name_36",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 77000
+  },
+  "37": {
+    "Class": 37,
+    "ClassNameEn": "ItemClass_name_37",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "51": {
+    "Class": 51,
+    "ClassNameEn": "ItemClass_name_51",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "52": {
+    "Class": 52,
+    "ClassNameEn": "ItemClass_name_52",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "61": {
+    "Class": 61,
+    "ClassNameEn": "ItemClass_name_61",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "62": {
+    "Class": 62,
+    "ClassNameEn": "ItemClass_name_62",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "63": {
+    "Class": 63,
+    "ClassNameEn": "ItemClass_name_63",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "64": {
+    "Class": 64,
+    "ClassNameEn": "ItemClass_name_64",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 78001
+  },
+  "65": {
+    "Class": 65,
+    "ClassNameEn": "ItemClass_name_65",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 78000
+  },
+  "66": {
+    "Class": 66,
+    "ClassNameEn": "ItemClass_name_66",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 78002
+  },
+  "67": {
+    "Class": 67,
+    "ClassNameEn": "ItemClass_name_67",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "68": {
+    "Class": 68,
+    "ClassNameEn": "ItemClass_name_68",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "69": {
+    "Class": 69,
+    "ClassNameEn": "ItemClass_name_69",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "70": {
+    "Class": 70,
+    "ClassNameEn": "ItemClass_name_70",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
+  "71": {
+    "Class": 71,
+    "ClassNameEn": "ItemClass_name_71",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 76000
+  },
+  "72": {
+    "Class": 72,
+    "ClassNameEn": "ItemClass_name_72",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 78003
+  },
+  "73": {
+    "Class": 73,
+    "ClassNameEn": "ItemClass_name_10",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 79998
+  }
+}
