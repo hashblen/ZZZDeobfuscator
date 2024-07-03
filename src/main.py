@@ -17,3 +17,5 @@ if __name__ == '__main__':
                     print(f"The dictionaries have the same value {v1} for different keys {k1}, {k2}")
                     exit()
         key_mappings |= deobfer.key_mapping
+    with open("generated_mapping.json", "w") as gen_map_file:
+        json.dump(key_mappings, gen_map_file, indent=2)

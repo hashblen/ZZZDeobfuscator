@@ -7,5 +7,6 @@
   "OnceRewardTemplateTb": "RewardID",
   "DamageHitTypeConfigTemplateTb": "DamageHitTypeID",
   "DamageElementConfigTemplateTb": "DamageElementID",
-  "CampConstTemplateTb": "Camp"
+  "CampConstTemplateTb": "Camp",
+  "AccessConfigTemplateTb": "AccessID"
 }
