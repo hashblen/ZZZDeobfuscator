@@ -9,5 +9,6 @@
   "DamageElementConfigTemplateTb": "DamageElementID",
   "CampConstTemplateTb": "Camp",
   "AccessConfigTemplateTb": "AccessID",
-  "ItemClassTemplateTb": "Class"
+  "ItemClassTemplateTb": "Class",
+  "BuddyBaseTemplateTb": "ID"
 }
