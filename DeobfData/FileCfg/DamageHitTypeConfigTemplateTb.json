@@ -1,0 +1,34 @@
+{
+  "0": {
+    "DamageHitTypeID": 0,
+    "Name": "HitType_None",
+    "DamageType": "None",
+    "HitTypeTitle": "",
+    "HitTypeText": "",
+    "Icon": ""
+  },
+  "101": {
+    "DamageHitTypeID": 101,
+    "Name": "HitType_Cut",
+    "DamageType": "Cut",
+    "HitTypeTitle": "HitTypeIconTitle_Cut",
+    "HitTypeText": "HitTypeIconText_Cut",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffCut.png"
+  },
+  "102": {
+    "DamageHitTypeID": 102,
+    "Name": "HitType_Punch",
+    "DamageType": "Punch",
+    "HitTypeTitle": "HitTypeIconTitle_Punch",
+    "HitTypeText": "HitTypeIconText_Punch",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffPunch.png"
+  },
+  "103": {
+    "DamageHitTypeID": 103,
+    "Name": "HitType_Pierce",
+    "DamageType": "Pierce",
+    "HitTypeTitle": "HitTypeIconTitle_Pierce",
+    "HitTypeText": "HitTypeIconText_Pierce",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffPierce.png"
+  }
+}
