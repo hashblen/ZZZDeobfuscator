@@ -4,5 +4,7 @@
   "EquipmentSuitTemplateTb": "ID",
   "ItemTemplateTb": "ID",
   "WeaponTemplateTb": "ItemID",
-  "OnceRewardTemplateTb": "RewardID"
+  "OnceRewardTemplateTb": "RewardID",
+  "DamageHitTypeConfigTemplateTb": "DamageHitTypeID",
+  "DamageElementConfigTemplateTb": "DamageElementID"
 }

@@ -1,0 +1,8 @@
+{
+  "DamageHitTypeID": 101,
+  "Name": "HitType_Cut",
+  "DamageType": "Cut",
+  "HitTypeTitle": "HitTypeIconTitle_Cut",
+  "HitTypeText": "HitTypeIconText_Cut",
+  "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffCut.png"
+}

@@ -1,0 +1,14 @@
+{
+  "DamageElementID": 200,
+  "HpRevise": 10000,
+  "ArmorRevise": 5000,
+  "ShieldRevise": 10000,
+  "Name": "ElementType_Physics",
+  "ElementType": "Physics",
+  "ElementTypeTitle": "ElementIconTitle_Physics",
+  "ElementTypeText": "ElementIconText_Physics",
+  "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png",
+  "ONILAGEBEGN": "ElementIconText_Physics",
+  "AGNHONENJJM": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png",
+  "DIJCNJIDAGG": 0
+}
