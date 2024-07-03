@@ -12,8 +12,8 @@
   },
   "StarLimit": 4,
   "ExpRecycle": 300,
-  "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-  "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_01",
+  "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+  "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_01",
   "NGDEOGDBFEB": 0,
   "GMAKJBPAACK": "Weapon/Weapon_B_Common_01",
   "RefineCosts": [
@@ -33,5 +33,5 @@
   "DBIIAEFJHDA": "",
   "GDHEDCOCFAF": "",
   "AvatarID": 0,
-  "BLGOKKBDIOO": ""
+  "WeaponComment": ""
 }

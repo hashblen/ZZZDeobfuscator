@@ -13,8 +13,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_01",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_01",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_01",
     "RefineCosts": [
@@ -34,7 +34,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12002": {
     "ItemID": 12002,
@@ -50,8 +50,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_02",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_02",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_02",
     "RefineCosts": [
@@ -71,7 +71,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12003": {
     "ItemID": 12003,
@@ -87,8 +87,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_03",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_03",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_03",
     "RefineCosts": [
@@ -108,7 +108,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12004": {
     "ItemID": 12004,
@@ -124,8 +124,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_04",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_04",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_04",
     "RefineCosts": [
@@ -145,7 +145,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12005": {
     "ItemID": 12005,
@@ -161,8 +161,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_05",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_05",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_05",
     "RefineCosts": [
@@ -182,7 +182,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12006": {
     "ItemID": 12006,
@@ -198,8 +198,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_06",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_06",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_06",
     "RefineCosts": [
@@ -219,7 +219,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12007": {
     "ItemID": 12007,
@@ -235,8 +235,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_07",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_07",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_07",
     "RefineCosts": [
@@ -256,7 +256,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12008": {
     "ItemID": 12008,
@@ -272,8 +272,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_08",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_08",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_08",
     "RefineCosts": [
@@ -293,7 +293,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12009": {
     "ItemID": 12009,
@@ -309,8 +309,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_09",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_09",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_09",
     "RefineCosts": [
@@ -330,7 +330,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12010": {
     "ItemID": 12010,
@@ -346,8 +346,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_10",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_10",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_10",
     "RefineCosts": [
@@ -367,7 +367,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12011": {
     "ItemID": 12011,
@@ -383,8 +383,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_11",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_11",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_11",
     "RefineCosts": [
@@ -404,7 +404,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12012": {
     "ItemID": 12012,
@@ -420,8 +420,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_12",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_12",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_12",
     "RefineCosts": [
@@ -441,7 +441,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12013": {
     "ItemID": 12013,
@@ -457,8 +457,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_13",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_13",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_13",
     "RefineCosts": [
@@ -478,7 +478,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "12014": {
     "ItemID": 12014,
@@ -494,8 +494,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 300,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_B_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_B_Common_14",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_B_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_B_Common_14",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_B_Common_14",
     "RefineCosts": [
@@ -515,7 +515,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "13001": {
     "ItemID": 13001,
@@ -531,8 +531,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_Common_01",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_Common_01",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_Common_01",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_Common_01",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_A_Common_01",
     "RefineCosts": [
@@ -552,7 +552,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "13002": {
     "ItemID": 13002,
@@ -568,8 +568,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_Common_02",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_Common_02",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_Common_02",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_Common_02",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_A_Common_02",
     "RefineCosts": [
@@ -589,7 +589,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "13003": {
     "ItemID": 13003,
@@ -605,8 +605,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_Common_03",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_Common_03",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_Common_03",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_Common_03",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_A_Common_03",
     "RefineCosts": [
@@ -626,7 +626,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "13004": {
     "ItemID": 13004,
@@ -642,8 +642,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_Common_04",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_Common_04",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_Common_04",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_Common_04",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_A_Common_04",
     "RefineCosts": [
@@ -663,7 +663,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "13005": {
     "ItemID": 13005,
@@ -679,8 +679,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_Common_05",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_Common_05",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_Common_05",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_Common_05",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_A_Common_05",
     "RefineCosts": [
@@ -700,7 +700,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "13006": {
     "ItemID": 13006,
@@ -716,8 +716,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_Common_06",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_Common_06",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_A_Common_06",
     "RefineCosts": [
@@ -737,7 +737,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "13007": {
     "ItemID": 13007,
@@ -753,8 +753,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_Common_07",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_Common_07",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_Common_07",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_Common_07",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_A_Common_07",
     "RefineCosts": [
@@ -774,7 +774,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "13008": {
     "ItemID": 13008,
@@ -790,8 +790,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_Common",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_Common_08",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_Common_08",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_A_Common_08",
     "RefineCosts": [
@@ -811,7 +811,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "13009": {
     "ItemID": 13009,
@@ -827,8 +827,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_Common_09",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_Common_09",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_Common_09",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_Common_09",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_A_Common_09",
     "RefineCosts": [
@@ -848,7 +848,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "13010": {
     "ItemID": 13010,
@@ -864,8 +864,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_Common_10",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_Common_10",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_Common_10",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_Common_10",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_A_Common_10",
     "RefineCosts": [
@@ -885,7 +885,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "13011": {
     "ItemID": 13011,
@@ -901,8 +901,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_Common_11",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_Common_11",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_Common_11",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_Common_11",
     "NGDEOGDBFEB": 0,
     "GMAKJBPAACK": "Weapon/Weapon_A_Common_11",
     "RefineCosts": [
@@ -922,7 +922,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "13101": {
     "ItemID": 13101,
@@ -938,8 +938,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_1011",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_1011",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_1011",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_1011",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_A_1011",
     "RefineCosts": [
@@ -959,7 +959,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1011,
-    "BLGOKKBDIOO": "Weapon_A_1011_Comment"
+    "WeaponComment": "Weapon_A_1011_Comment"
   },
   "13103": {
     "ItemID": 13103,
@@ -975,8 +975,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_1031",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_1031",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_1031",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_1031",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_A_1031",
     "RefineCosts": [
@@ -996,7 +996,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1031,
-    "BLGOKKBDIOO": "Weapon_A_1031_Comment"
+    "WeaponComment": "Weapon_A_1031_Comment"
   },
   "13106": {
     "ItemID": 13106,
@@ -1012,8 +1012,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_1061",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_1061",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_1061",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_1061",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_A_1061",
     "RefineCosts": [
@@ -1033,7 +1033,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1061,
-    "BLGOKKBDIOO": "Weapon_A_1061_Comment"
+    "WeaponComment": "Weapon_A_1061_Comment"
   },
   "13108": {
     "ItemID": 13108,
@@ -1049,8 +1049,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_1081",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_1081",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_1081",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_1081",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_A_1081",
     "RefineCosts": [
@@ -1070,7 +1070,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1081,
-    "BLGOKKBDIOO": "Weapon_A_1081_Comment"
+    "WeaponComment": "Weapon_A_1081_Comment"
   },
   "13111": {
     "ItemID": 13111,
@@ -1086,8 +1086,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_1111",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_1111",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_1111",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_1111",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_A_1111",
     "RefineCosts": [
@@ -1107,7 +1107,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1111,
-    "BLGOKKBDIOO": "Weapon_A_1111_Comment"
+    "WeaponComment": "Weapon_A_1111_Comment"
   },
   "13112": {
     "ItemID": 13112,
@@ -1123,8 +1123,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_1121",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_1121",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_1121",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_1121",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_A_1121",
     "RefineCosts": [
@@ -1144,7 +1144,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1121,
-    "BLGOKKBDIOO": "Weapon_A_1121_Comment"
+    "WeaponComment": "Weapon_A_1121_Comment"
   },
   "13113": {
     "ItemID": 13113,
@@ -1160,8 +1160,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_1131",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_1131",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_1131",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_1131",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_A_1131",
     "RefineCosts": [
@@ -1181,7 +1181,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1131,
-    "BLGOKKBDIOO": "Weapon_A_1131_Comment"
+    "WeaponComment": "Weapon_A_1131_Comment"
   },
   "13115": {
     "ItemID": 13115,
@@ -1197,8 +1197,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_1151",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_1151",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_1151",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_1151",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_A_1151",
     "RefineCosts": [
@@ -1218,7 +1218,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1151,
-    "BLGOKKBDIOO": "Weapon_A_1151_Comment"
+    "WeaponComment": "Weapon_A_1151_Comment"
   },
   "13128": {
     "ItemID": 13128,
@@ -1234,8 +1234,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_A_1281",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_A_1281",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_1281",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_1281",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_A_1281",
     "RefineCosts": [
@@ -1255,7 +1255,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1281,
-    "BLGOKKBDIOO": "Weapon_A_1281_Comment"
+    "WeaponComment": "Weapon_A_1281_Comment"
   },
   "14001": {
     "ItemID": 14001,
@@ -1271,8 +1271,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_S_Common_01",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_S_Common_01",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_Common_01",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_Common_01",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_S_Common_01",
     "RefineCosts": [
@@ -1292,7 +1292,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "14002": {
     "ItemID": 14002,
@@ -1308,8 +1308,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_S_Common_02",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_S_Common_02",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_Common_02",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_Common_02",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_S_Common_02",
     "RefineCosts": [
@@ -1329,7 +1329,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "14003": {
     "ItemID": 14003,
@@ -1345,8 +1345,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 6000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_S_Common_03",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_S_Common_03",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_Common_03",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_Common_03",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_S_Common_03",
     "RefineCosts": [
@@ -1366,7 +1366,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 0,
-    "BLGOKKBDIOO": ""
+    "WeaponComment": ""
   },
   "14102": {
     "ItemID": 14102,
@@ -1382,8 +1382,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 30000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_S_1021",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_S_1021",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_1021",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_1021",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_S_1021",
     "RefineCosts": [
@@ -1403,7 +1403,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1021,
-    "BLGOKKBDIOO": "Weapon_S_1021_Comment"
+    "WeaponComment": "Weapon_S_1021_Comment"
   },
   "14104": {
     "ItemID": 14104,
@@ -1419,8 +1419,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 30000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_S_1041",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_S_1041",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_1041",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_1041",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_S_1041",
     "RefineCosts": [
@@ -1440,7 +1440,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1041,
-    "BLGOKKBDIOO": "Weapon_S_1041_Comment"
+    "WeaponComment": "Weapon_S_1041_Comment"
   },
   "14110": {
     "ItemID": 14110,
@@ -1456,8 +1456,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 30000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_S_1101",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_S_1101",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_1101",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_1101",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_S_1101",
     "RefineCosts": [
@@ -1477,7 +1477,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1101,
-    "BLGOKKBDIOO": "Weapon_S_1101_Comment"
+    "WeaponComment": "Weapon_S_1101_Comment"
   },
   "14114": {
     "ItemID": 14114,
@@ -1493,8 +1493,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 30000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_S_1141",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_S_1141",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_1141",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_1141",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_S_1141",
     "RefineCosts": [
@@ -1514,7 +1514,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1141,
-    "BLGOKKBDIOO": "Weapon_S_1141_Comment"
+    "WeaponComment": "Weapon_S_1141_Comment"
   },
   "14118": {
     "ItemID": 14118,
@@ -1530,8 +1530,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 30000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_S_1181",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_S_1181",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_1181",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_1181",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_S_1181",
     "RefineCosts": [
@@ -1551,7 +1551,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1181,
-    "BLGOKKBDIOO": "Weapon_S_1181_Comment"
+    "WeaponComment": "Weapon_S_1181_Comment"
   },
   "14119": {
     "ItemID": 14119,
@@ -1567,8 +1567,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 30000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_S_1191",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_S_1191",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_1191",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_1191",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_S_1191",
     "RefineCosts": [
@@ -1588,7 +1588,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1191,
-    "BLGOKKBDIOO": "Weapon_S_1191_Comment"
+    "WeaponComment": "Weapon_S_1191_Comment"
   },
   "14121": {
     "ItemID": 14121,
@@ -1604,8 +1604,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 30000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_S_1211",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_S_1211",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_1211",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_1211",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_S_1211",
     "RefineCosts": [
@@ -1625,7 +1625,7 @@
     "DBIIAEFJHDA": "",
     "GDHEDCOCFAF": "",
     "AvatarID": 1211,
-    "BLGOKKBDIOO": "Weapon_S_1211_Comment"
+    "WeaponComment": "Weapon_S_1211_Comment"
   },
   "14124": {
     "ItemID": 14124,
@@ -1641,8 +1641,8 @@
     },
     "StarLimit": 4,
     "ExpRecycle": 30000,
-    "MHMEHIJKLEE": "Data/ScriptConfig/Character/Weapon_S_1241",
-    "HDIMACEAHAO": "UI/3D/Weapon/Weapon_S_1241",
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_1241",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_1241",
     "NGDEOGDBFEB": 1,
     "GMAKJBPAACK": "Weapon/Weapon_S_1241",
     "RefineCosts": [
@@ -1662,6 +1662,6 @@
     "DBIIAEFJHDA": "zhuyuan_release",
     "GDHEDCOCFAF": "",
     "AvatarID": 1241,
-    "BLGOKKBDIOO": "Weapon_S_1241_Comment"
+    "WeaponComment": "Weapon_S_1241_Comment"
   }
 }
