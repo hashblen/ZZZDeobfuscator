@@ -1,7 +1,7 @@
 import json
 import pathlib
 
-BASE_OBF_PATH = pathlib.Path("ZenlessData/FileCfg")
+BASE_OBF_PATH = pathlib.Path("TvGameData/FileCfg")
 BASE_DEOBF_PATH = pathlib.Path("DeobfData/FileCfg")
 BASE_DEOBF_PATH.mkdir(parents=True, exist_ok=True)
 BASE_DIR_PATH = pathlib.Path("src/files")

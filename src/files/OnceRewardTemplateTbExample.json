@@ -4,8 +4,8 @@
   "RewardsList": [
     {
       "ItemID": 100,
-      "Amount": 5,
-      "PLOFBKBFCOH": 0
+      "AmountMin": 5,
+      "AmountMax": 0
     }
   ],
   "GPCBJFCBAJL": ""
