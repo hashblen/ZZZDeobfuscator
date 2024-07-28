@@ -1,6 +1,6 @@
 {
   "ItemID": 12001,
-  "LAFKHMCKNIO": "Weapon_B_Common_01",
+  "CodeName": "Weapon_B_Common_01",
   "Type": 0,
   "BaseProperty": {
     "Property": 12101,
