@@ -14,7 +14,10 @@ if __name__ == '__main__':
         for k1, v1 in key_mappings.items():
             for k2, v2 in deobfer.key_mapping.items():
                 if k1 != k2 and v1 == v2:
-                    print(f"The dictionaries have the same value {v1} for different keys {k1}, {k2}")
+                    print(f"The dictionaries have the same value {v1} for different keys {k1}, {k2} -> {filename}")
+                    exit()
+                if k1 == k2 and v1 != v2:
+                    print(f"The dictionaries have the same key {k1} for different values {v1}, {v2} -> {filename}")
                     exit()
         key_mappings |= deobfer.key_mapping
     with open("generated_mapping.json", "w") as gen_map_file:
