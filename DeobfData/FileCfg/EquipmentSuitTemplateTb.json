@@ -15,10 +15,11 @@
     "HFFKEDDJFEF": [],
     "SuitAbilityID": 50431000,
     "FourPieceDecription": "EquipmentSuit_31000_4_des",
-    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWoodpeckerElectro_S.png",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWoodpeckerElectro.png",
     "SuitStory": "EquipmentSuit_31000_story",
     "SuitFilterOption": "EquipmentSuit_31000_SuitFilterOption",
-    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWoodpeckerElectro.png"
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWoodpeckerElectro.png",
+    "EFMEKILCAFA": false
   },
   "31100": {
     "ID": 31100,
@@ -36,10 +37,11 @@
     "HFFKEDDJFEF": [],
     "SuitAbilityID": 50431100,
     "FourPieceDecription": "EquipmentSuit_31100_4_des",
-    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitPufferElectro_S.png",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitPufferElectro.png",
     "SuitStory": "EquipmentSuit_31100_story",
     "SuitFilterOption": "EquipmentSuit_31100_SuitFilterOption",
-    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitPufferElectro.png"
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitPufferElectro.png",
+    "EFMEKILCAFA": false
   },
   "31200": {
     "ID": 31200,
@@ -57,10 +59,11 @@
     "HFFKEDDJFEF": [],
     "SuitAbilityID": 50431200,
     "FourPieceDecription": "EquipmentSuit_31200_4_des",
-    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitShockstarDisco_S.png",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShockstarDisco.png",
     "SuitStory": "EquipmentSuit_31200_story",
     "SuitFilterOption": "EquipmentSuit_31200_SuitFilterOption",
-    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShockstarDisco.png"
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShockstarDisco.png",
+    "EFMEKILCAFA": false
   },
   "31300": {
     "ID": 31300,
@@ -78,10 +81,11 @@
     "HFFKEDDJFEF": [],
     "SuitAbilityID": 50431300,
     "FourPieceDecription": "EquipmentSuit_31300_4_des",
-    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFreedomBlues_S.png",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFreedomBlues.png",
     "SuitStory": "EquipmentSuit_31300_story",
     "SuitFilterOption": "EquipmentSuit_31300_SuitFilterOption",
-    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFreedomBlues.png"
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFreedomBlues.png",
+    "EFMEKILCAFA": false
   },
   "31400": {
     "ID": 31400,
@@ -99,10 +103,11 @@
     "HFFKEDDJFEF": [],
     "SuitAbilityID": 50431400,
     "FourPieceDecription": "EquipmentSuit_31400_4_des",
-    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitHormonePunk_S.png",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png",
     "SuitStory": "EquipmentSuit_31400_story",
     "SuitFilterOption": "EquipmentSuit_31400_SuitFilterOption",
-    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png"
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png",
+    "EFMEKILCAFA": false
   },
   "31500": {
     "ID": 31500,
@@ -120,10 +125,11 @@
     "HFFKEDDJFEF": [],
     "SuitAbilityID": 50431500,
     "FourPieceDecription": "EquipmentSuit_31500_4_des",
-    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSoulRock_S.png",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSoulRock.png",
     "SuitStory": "EquipmentSuit_31500_story",
     "SuitFilterOption": "EquipmentSuit_31500_SuitFilterOption",
-    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSoulRock.png"
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSoulRock.png",
+    "EFMEKILCAFA": false
   },
   "31600": {
     "ID": 31600,
@@ -141,10 +147,11 @@
     "HFFKEDDJFEF": [],
     "SuitAbilityID": 50431600,
     "FourPieceDecription": "EquipmentSuit_31600_4_des",
-    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitSwingJazz_S.png",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSwingJazz.png",
     "SuitStory": "EquipmentSuit_31600_story",
     "SuitFilterOption": "EquipmentSuit_31600_SuitFilterOption",
-    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSwingJazz.png"
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSwingJazz.png",
+    "EFMEKILCAFA": false
   },
   "32200": {
     "ID": 32200,
@@ -162,10 +169,11 @@
     "HFFKEDDJFEF": [],
     "SuitAbilityID": 50432200,
     "FourPieceDecription": "EquipmentSuit_32200_4_des",
-    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitInfernoMetal_S.png",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitInfernoMetal.png",
     "SuitStory": "EquipmentSuit_32200_story",
     "SuitFilterOption": "EquipmentSuit_32200_SuitFilterOption",
-    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitInfernoMetal.png"
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitInfernoMetal.png",
+    "EFMEKILCAFA": false
   },
   "32300": {
     "ID": 32300,
@@ -183,10 +191,11 @@
     "HFFKEDDJFEF": [],
     "SuitAbilityID": 50432300,
     "FourPieceDecription": "EquipmentSuit_32300_4_des",
-    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitChaosMetal_S.png",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosMetal.png",
     "SuitStory": "EquipmentSuit_32300_story",
     "SuitFilterOption": "EquipmentSuit_32300_SuitFilterOption",
-    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosMetal.png"
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosMetal.png",
+    "EFMEKILCAFA": false
   },
   "32400": {
     "ID": 32400,
@@ -204,10 +213,11 @@
     "HFFKEDDJFEF": [],
     "SuitAbilityID": 50432400,
     "FourPieceDecription": "EquipmentSuit_32400_4_des",
-    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitThunderMetal_S.png",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitThunderMetal.png",
     "SuitStory": "EquipmentSuit_32400_story",
     "SuitFilterOption": "EquipmentSuit_32400_SuitFilterOption",
-    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitThunderMetal.png"
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitThunderMetal.png",
+    "EFMEKILCAFA": false
   },
   "32500": {
     "ID": 32500,
@@ -225,10 +235,11 @@
     "HFFKEDDJFEF": [],
     "SuitAbilityID": 50432500,
     "FourPieceDecription": "EquipmentSuit_32500_4_des",
-    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitPolarMetal_S.png",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitPolarMetal.png",
     "SuitStory": "EquipmentSuit_32500_story",
     "SuitFilterOption": "EquipmentSuit_32500_SuitFilterOption",
-    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitPolarMetal.png"
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitPolarMetal.png",
+    "EFMEKILCAFA": false
   },
   "32600": {
     "ID": 32600,
@@ -246,9 +257,10 @@
     "HFFKEDDJFEF": [],
     "SuitAbilityID": 50432600,
     "FourPieceDecription": "EquipmentSuit_32600_4_des",
-    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitFangedMetal_S.png",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFangedMetal.png",
     "SuitStory": "EquipmentSuit_32600_story",
     "SuitFilterOption": "EquipmentSuit_32600_SuitFilterOption",
-    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFangedMetal.png"
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFangedMetal.png",
+    "EFMEKILCAFA": false
   }
 }

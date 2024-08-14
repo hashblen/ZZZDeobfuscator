@@ -924,6 +924,43 @@
     "AvatarID": 0,
     "WeaponComment": ""
   },
+  "13013": {
+    "ItemID": 13013,
+    "CodeName": "Weapon_A_Common_13",
+    "Type": 0,
+    "BaseProperty": {
+      "Property": 12101,
+      "Value": 40
+    },
+    "RandProperty": {
+      "Property": 12102,
+      "Value": 1000
+    },
+    "StarLimit": 4,
+    "ExpRecycle": 6000,
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_Common",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_Common_13",
+    "NGDEOGDBFEB": 0,
+    "GMAKJBPAACK": "Weapon/Weapon_A_Common_13",
+    "RefineCosts": [
+      {
+        "ItemID": 10,
+        "Number": 1500
+      }
+    ],
+    "RefineInitial": 1,
+    "RefineLimit": 5,
+    "EPPLIFAMAEJ": 0,
+    "IOGIHONJOMF": 0,
+    "CHFEMALKLBL": "10:9600,101010:3|10:22400,101020:10|10:48000,101020:16|10:80000,101030:8|10:160000,101030:16",
+    "JHLGOMEOANO": 307001,
+    "LJONANJGEOI": 1,
+    "AbilityDes": "Item_Weapon_A_Common_13_Desc",
+    "DBIIAEFJHDA": "Weapon_13013_Activity",
+    "GDHEDCOCFAF": "",
+    "AvatarID": 0,
+    "WeaponComment": ""
+  },
   "13101": {
     "ItemID": 13101,
     "CodeName": "Weapon_A_1011",
@@ -1219,6 +1256,43 @@
     "GDHEDCOCFAF": "",
     "AvatarID": 1151,
     "WeaponComment": "Weapon_A_1151_Comment"
+  },
+  "13127": {
+    "ItemID": 13127,
+    "CodeName": "Weapon_A_1271",
+    "Type": 0,
+    "BaseProperty": {
+      "Property": 12101,
+      "Value": 42
+    },
+    "RandProperty": {
+      "Property": 12102,
+      "Value": 1000
+    },
+    "StarLimit": 4,
+    "ExpRecycle": 6000,
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_A_1271",
+    "PrefabPath": "UI/3D/Weapon/Weapon_A_1271",
+    "NGDEOGDBFEB": 1,
+    "GMAKJBPAACK": "Weapon/Weapon_A_1271",
+    "RefineCosts": [
+      {
+        "ItemID": 10,
+        "Number": 1500
+      }
+    ],
+    "RefineInitial": 1,
+    "RefineLimit": 5,
+    "EPPLIFAMAEJ": 0,
+    "IOGIHONJOMF": 0,
+    "CHFEMALKLBL": "10:9600,101014:3|10:22400,101024:10|10:48000,101024:16|10:80000,101034:8|10:160000,101034:16",
+    "JHLGOMEOANO": 0,
+    "LJONANJGEOI": 5,
+    "AbilityDes": "Item_Weapon_A_1271_Desc",
+    "DBIIAEFJHDA": "Jane_Seth_release",
+    "GDHEDCOCFAF": "",
+    "AvatarID": 1271,
+    "WeaponComment": "Weapon_A_1271_Comment"
   },
   "13128": {
     "ItemID": 13128,
@@ -1663,5 +1737,79 @@
     "GDHEDCOCFAF": "",
     "AvatarID": 1241,
     "WeaponComment": "Weapon_S_1241_Comment"
+  },
+  "14125": {
+    "ItemID": 14125,
+    "CodeName": "Weapon_S_1251",
+    "Type": 0,
+    "BaseProperty": {
+      "Property": 12101,
+      "Value": 48
+    },
+    "RandProperty": {
+      "Property": 12202,
+      "Value": 720
+    },
+    "StarLimit": 4,
+    "ExpRecycle": 30000,
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_1251",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_1251",
+    "NGDEOGDBFEB": 1,
+    "GMAKJBPAACK": "Weapon/Weapon_S_1251",
+    "RefineCosts": [
+      {
+        "ItemID": 10,
+        "Number": 2000
+      }
+    ],
+    "RefineInitial": 1,
+    "RefineLimit": 5,
+    "EPPLIFAMAEJ": 0,
+    "IOGIHONJOMF": 0,
+    "CHFEMALKLBL": "10:12000,101011:4|10:28000,101021:12|10:60000,101021:20|10:100000,101031:10|10:200000,101031:20",
+    "JHLGOMEOANO": 0,
+    "LJONANJGEOI": 2,
+    "AbilityDes": "Item_Weapon_S_1251_Desc",
+    "DBIIAEFJHDA": "",
+    "GDHEDCOCFAF": "",
+    "AvatarID": 1251,
+    "WeaponComment": "Weapon_S_1251_Comment"
+  },
+  "14126": {
+    "ItemID": 14126,
+    "CodeName": "Weapon_S_1261",
+    "Type": 0,
+    "BaseProperty": {
+      "Property": 12101,
+      "Value": 48
+    },
+    "RandProperty": {
+      "Property": 31203,
+      "Value": 36
+    },
+    "StarLimit": 4,
+    "ExpRecycle": 30000,
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_1261",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_1261",
+    "NGDEOGDBFEB": 1,
+    "GMAKJBPAACK": "Weapon/Weapon_S_1261",
+    "RefineCosts": [
+      {
+        "ItemID": 10,
+        "Number": 2000
+      }
+    ],
+    "RefineInitial": 1,
+    "RefineLimit": 5,
+    "EPPLIFAMAEJ": 0,
+    "IOGIHONJOMF": 0,
+    "CHFEMALKLBL": "10:12000,101012:4|10:28000,101022:12|10:60000,101022:20|10:100000,101032:10|10:200000,101032:20",
+    "JHLGOMEOANO": 0,
+    "LJONANJGEOI": 3,
+    "AbilityDes": "Item_Weapon_S_1261_Desc",
+    "DBIIAEFJHDA": "Jane_Seth_release",
+    "GDHEDCOCFAF": "",
+    "AvatarID": 1261,
+    "WeaponComment": "Weapon_S_1261_Comment"
   }
 }

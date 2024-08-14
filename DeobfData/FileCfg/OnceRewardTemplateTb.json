@@ -11621,6 +11621,121 @@
     ],
     "GPCBJFCBAJL": ""
   },
+  "103050058": {
+    "RewardID": 103050058,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 450,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 9000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 303002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103050059": {
+    "RewardID": 103050059,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 400,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 8000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 303002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103050060": {
+    "RewardID": 103050060,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 450,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 9000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 303002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103050061": {
+    "RewardID": 103050061,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 450,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 9000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 303002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103050062": {
+    "RewardID": 103050062,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 450,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 9000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 303002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
   "103080001": {
     "RewardID": 103080001,
     "ItemGroups": [],
@@ -12435,6 +12550,228 @@
     ],
     "GPCBJFCBAJL": ""
   },
+  "103080023": {
+    "RewardID": 103080023,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 600,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 50,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 25000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103080024": {
+    "RewardID": 103080024,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 600,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 50,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 25000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103080025": {
+    "RewardID": 103080025,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 600,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 50,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 25000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103080026": {
+    "RewardID": 103080026,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 600,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 50,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 25000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103080027": {
+    "RewardID": 103080027,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 600,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 50,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 25000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103080028": {
+    "RewardID": 103080028,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 600,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 50,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 25000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
   "103080901": {
     "RewardID": 103080901,
     "ItemGroups": [],
@@ -13170,6 +13507,117 @@
   },
   "103082018": {
     "RewardID": 103082018,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 400,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 25,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103082019": {
+    "RewardID": 103082019,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 400,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 25,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103082020": {
+    "RewardID": 103082020,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 400,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 25,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103082021": {
+    "RewardID": 103082021,
     "ItemGroups": [],
     "RewardsList": [
       {
@@ -16517,6 +16965,991 @@
     ],
     "GPCBJFCBAJL": ""
   },
+  "103084093": {
+    "RewardID": 103084093,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 300,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 25,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084094": {
+    "RewardID": 103084094,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 225,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 15,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 7500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084095": {
+    "RewardID": 103084095,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 225,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 15,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 7500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084096": {
+    "RewardID": 103084096,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 150,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084097": {
+    "RewardID": 103084097,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 250,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084098": {
+    "RewardID": 103084098,
+    "ItemGroups": [],
+    "RewardsList": [],
+    "GPCBJFCBAJL": ""
+  },
+  "103084099": {
+    "RewardID": 103084099,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 275,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084100": {
+    "RewardID": 103084100,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 225,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 15,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 7500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084101": {
+    "RewardID": 103084101,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 250,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084102": {
+    "RewardID": 103084102,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 275,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084103": {
+    "RewardID": 103084103,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 225,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 15,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 7500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084104": {
+    "RewardID": 103084104,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 250,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 3600019,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084105": {
+    "RewardID": 103084105,
+    "ItemGroups": [],
+    "RewardsList": [],
+    "GPCBJFCBAJL": ""
+  },
+  "103084106": {
+    "RewardID": 103084106,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 200,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 15,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 7500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084107": {
+    "RewardID": 103084107,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 150,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084108": {
+    "RewardID": 103084108,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 225,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 15,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 7500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084109": {
+    "RewardID": 103084109,
+    "ItemGroups": [],
+    "RewardsList": [],
+    "GPCBJFCBAJL": ""
+  },
+  "103084110": {
+    "RewardID": 103084110,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 225,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 15,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 7500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084111": {
+    "RewardID": 103084111,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 250,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084112": {
+    "RewardID": 103084112,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 250,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084113": {
+    "RewardID": 103084113,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 225,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 15,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 7500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084114": {
+    "RewardID": 103084114,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 150,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084115": {
+    "RewardID": 103084115,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 150,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084116": {
+    "RewardID": 103084116,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 250,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084117": {
+    "RewardID": 103084117,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 275,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084118": {
+    "RewardID": 103084118,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 300,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 25,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084119": {
+    "RewardID": 103084119,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 300,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 25,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084120": {
+    "RewardID": 103084120,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 300,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 25,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084121": {
+    "RewardID": 103084121,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 300,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 25,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
   "103084951": {
     "RewardID": 103084951,
     "ItemGroups": [],
@@ -16684,6 +18117,18 @@
       {
         "ItemID": 302002,
         "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103084957": {
+    "RewardID": 103084957,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 3600018,
+        "AmountMin": 1,
         "AmountMax": 0
       }
     ],
@@ -16999,6 +18444,18 @@
       {
         "ItemID": 10,
         "AmountMin": 355,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103086016": {
+    "RewardID": 103086016,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 304050,
+        "AmountMin": 1,
         "AmountMax": 0
       }
     ],
@@ -59321,6 +60778,762 @@
     ],
     "GPCBJFCBAJL": ""
   },
+  "103150040": {
+    "RewardID": 103150040,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 300,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150041": {
+    "RewardID": 103150041,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 225,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 9000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 4,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150042": {
+    "RewardID": 103150042,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 250,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 6,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150043": {
+    "RewardID": 103150043,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 275,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 11000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 8,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150044": {
+    "RewardID": 103150044,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 225,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 9000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 4,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150045": {
+    "RewardID": 103150045,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 250,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 6,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150046": {
+    "RewardID": 103150046,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 300,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150047": {
+    "RewardID": 103150047,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 275,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 11000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 8,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150048": {
+    "RewardID": 103150048,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 300,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150049": {
+    "RewardID": 103150049,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 225,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 9000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 4,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150050": {
+    "RewardID": 103150050,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 250,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 6,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150051": {
+    "RewardID": 103150051,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 225,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 9000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 4,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150052": {
+    "RewardID": 103150052,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 250,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 6,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150053": {
+    "RewardID": 103150053,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 250,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 6,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150054": {
+    "RewardID": 103150054,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 250,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 6,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150055": {
+    "RewardID": 103150055,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 275,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 11000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 8,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150056": {
+    "RewardID": 103150056,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 300,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 31034,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150057": {
+    "RewardID": 103150057,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 400,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 16000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 31035,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150058": {
+    "RewardID": 103150058,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 400,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 16000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 31036,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150059": {
+    "RewardID": 103150059,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 300,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 31233,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150060": {
+    "RewardID": 103150060,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 300,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 31234,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150061": {
+    "RewardID": 103150061,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 400,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 16000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 31235,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150062": {
+    "RewardID": 103150062,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 400,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 16000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 31236,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150063": {
+    "RewardID": 103150063,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 300,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150064": {
+    "RewardID": 103150064,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 400,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 16000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150065": {
+    "RewardID": 103150065,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 400,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 16000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150066": {
+    "RewardID": 103150066,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 400,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 16000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103150067": {
+    "RewardID": 103150067,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 400,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 16000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302002,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
   "103151001": {
     "RewardID": 103151001,
     "ItemGroups": [],
@@ -60133,6 +62346,33 @@
   },
   "103152013": {
     "RewardID": 103152013,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 12000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302003,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "103152014": {
+    "RewardID": 103152014,
     "ItemGroups": [],
     "RewardsList": [
       {
@@ -68902,6 +71142,492 @@
     ],
     "GPCBJFCBAJL": ""
   },
+  "105082001": {
+    "RewardID": 105082001,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 303003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082002": {
+    "RewardID": 105082002,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 303003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 305034,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082003": {
+    "RewardID": 105082003,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 303003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082004": {
+    "RewardID": 105082004,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 303003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082005": {
+    "RewardID": 105082005,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 303003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082006": {
+    "RewardID": 105082006,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 1000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 305035,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082007": {
+    "RewardID": 105082007,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 1000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082008": {
+    "RewardID": 105082008,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 1000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 305036,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082009": {
+    "RewardID": 105082009,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 1000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082010": {
+    "RewardID": 105082010,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 1000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 305037,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082011": {
+    "RewardID": 105082011,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 1000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082012": {
+    "RewardID": 105082012,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 1000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082013": {
+    "RewardID": 105082013,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 1000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082014": {
+    "RewardID": 105082014,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082015": {
+    "RewardID": 105082015,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 305038,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082016": {
+    "RewardID": 105082016,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082017": {
+    "RewardID": 105082017,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 103040,
+        "AmountMin": 6,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "105082018": {
+    "RewardID": 105082018,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 103040,
+        "AmountMin": 6,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301003,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 701,
+        "AmountMin": 500,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
   "106010001": {
     "RewardID": 106010001,
     "ItemGroups": [],
@@ -69887,6 +72613,534 @@
       {
         "ItemID": 100,
         "AmountMin": 100,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 119,
+        "AmountMin": 200,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050101": {
+    "RewardID": 106050101,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050102": {
+    "RewardID": 106050102,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050103": {
+    "RewardID": 106050103,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 80,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 119,
+        "AmountMin": 200,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050104": {
+    "RewardID": 106050104,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 5,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050105": {
+    "RewardID": 106050105,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050106": {
+    "RewardID": 106050106,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 80,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 119,
+        "AmountMin": 200,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050107": {
+    "RewardID": 106050107,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050108": {
+    "RewardID": 106050108,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050109": {
+    "RewardID": 106050109,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 80,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 119,
+        "AmountMin": 200,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050110": {
+    "RewardID": 106050110,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050111": {
+    "RewardID": 106050111,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050112": {
+    "RewardID": 106050112,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 80,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 119,
+        "AmountMin": 200,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050113": {
+    "RewardID": 106050113,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050114": {
+    "RewardID": 106050114,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050115": {
+    "RewardID": 106050115,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 80,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 119,
+        "AmountMin": 200,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050116": {
+    "RewardID": 106050116,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050117": {
+    "RewardID": 106050117,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050118": {
+    "RewardID": 106050118,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 80,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 119,
+        "AmountMin": 200,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050119": {
+    "RewardID": 106050119,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050120": {
+    "RewardID": 106050120,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050121": {
+    "RewardID": 106050121,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 80,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 20000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 119,
+        "AmountMin": 200,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050122": {
+    "RewardID": 106050122,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 103030,
+        "AmountMin": 10,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050123": {
+    "RewardID": 106050123,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 60,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106050124": {
+    "RewardID": 106050124,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 80,
         "AmountMax": 0
       },
       {
@@ -71753,13 +75007,8 @@
     "ItemGroups": [],
     "RewardsList": [
       {
-        "ItemID": 100,
-        "AmountMin": 10,
-        "AmountMax": 0
-      },
-      {
-        "ItemID": 300003,
-        "AmountMin": 1,
+        "ItemID": 300002,
+        "AmountMin": 4,
         "AmountMax": 0
       },
       {
@@ -71768,13 +75017,13 @@
         "AmountMax": 0
       },
       {
-        "ItemID": 302002,
-        "AmountMin": 2,
+        "ItemID": 302001,
+        "AmountMin": 10,
         "AmountMax": 0
       },
       {
         "ItemID": 10,
-        "AmountMin": 5000,
+        "AmountMin": 4000,
         "AmountMax": 0
       }
     ],
@@ -71785,13 +75034,8 @@
     "ItemGroups": [],
     "RewardsList": [
       {
-        "ItemID": 100,
-        "AmountMin": 10,
-        "AmountMax": 0
-      },
-      {
-        "ItemID": 300003,
-        "AmountMin": 1,
+        "ItemID": 300002,
+        "AmountMin": 4,
         "AmountMax": 0
       },
       {
@@ -71800,13 +75044,13 @@
         "AmountMax": 0
       },
       {
-        "ItemID": 302002,
-        "AmountMin": 2,
+        "ItemID": 302001,
+        "AmountMin": 10,
         "AmountMax": 0
       },
       {
         "ItemID": 10,
-        "AmountMin": 5000,
+        "AmountMin": 4000,
         "AmountMax": 0
       }
     ],
@@ -71817,13 +75061,8 @@
     "ItemGroups": [],
     "RewardsList": [
       {
-        "ItemID": 100,
-        "AmountMin": 10,
-        "AmountMax": 0
-      },
-      {
-        "ItemID": 300003,
-        "AmountMin": 1,
+        "ItemID": 300002,
+        "AmountMin": 4,
         "AmountMax": 0
       },
       {
@@ -71832,13 +75071,13 @@
         "AmountMax": 0
       },
       {
-        "ItemID": 302002,
-        "AmountMin": 2,
+        "ItemID": 302001,
+        "AmountMin": 10,
         "AmountMax": 0
       },
       {
         "ItemID": 10,
-        "AmountMin": 5000,
+        "AmountMin": 4000,
         "AmountMax": 0
       }
     ],
@@ -71849,13 +75088,8 @@
     "ItemGroups": [],
     "RewardsList": [
       {
-        "ItemID": 100,
-        "AmountMin": 10,
-        "AmountMax": 0
-      },
-      {
-        "ItemID": 300003,
-        "AmountMin": 1,
+        "ItemID": 300002,
+        "AmountMin": 4,
         "AmountMax": 0
       },
       {
@@ -71864,13 +75098,13 @@
         "AmountMax": 0
       },
       {
-        "ItemID": 302002,
-        "AmountMin": 2,
+        "ItemID": 302001,
+        "AmountMin": 10,
         "AmountMax": 0
       },
       {
         "ItemID": 10,
-        "AmountMin": 5000,
+        "AmountMin": 4000,
         "AmountMax": 0
       }
     ],
@@ -71881,13 +75115,8 @@
     "ItemGroups": [],
     "RewardsList": [
       {
-        "ItemID": 100,
-        "AmountMin": 10,
-        "AmountMax": 0
-      },
-      {
-        "ItemID": 300003,
-        "AmountMin": 1,
+        "ItemID": 300002,
+        "AmountMin": 4,
         "AmountMax": 0
       },
       {
@@ -71896,13 +75125,13 @@
         "AmountMax": 0
       },
       {
-        "ItemID": 302002,
-        "AmountMin": 2,
+        "ItemID": 302001,
+        "AmountMin": 10,
         "AmountMax": 0
       },
       {
         "ItemID": 10,
-        "AmountMin": 5000,
+        "AmountMin": 4000,
         "AmountMax": 0
       }
     ],
@@ -71913,13 +75142,8 @@
     "ItemGroups": [],
     "RewardsList": [
       {
-        "ItemID": 100,
-        "AmountMin": 10,
-        "AmountMax": 0
-      },
-      {
-        "ItemID": 300003,
-        "AmountMin": 1,
+        "ItemID": 300002,
+        "AmountMin": 4,
         "AmountMax": 0
       },
       {
@@ -71928,13 +75152,121 @@
         "AmountMax": 0
       },
       {
-        "ItemID": 302002,
-        "AmountMin": 2,
+        "ItemID": 302001,
+        "AmountMin": 10,
         "AmountMax": 0
       },
       {
         "ItemID": 10,
-        "AmountMin": 5000,
+        "AmountMin": 4000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106065011": {
+    "RewardID": 106065011,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 300002,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302001,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 4000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106065012": {
+    "RewardID": 106065012,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 300002,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302001,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 4000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106065013": {
+    "RewardID": 106065013,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 300002,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302001,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 4000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106065014": {
+    "RewardID": 106065014,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 300002,
+        "AmountMin": 4,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 302001,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 4000,
         "AmountMax": 0
       }
     ],
@@ -72374,6 +75706,72 @@
       },
       {
         "ItemID": 100115,
+        "AmountMin": 3,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106070021": {
+    "RewardID": 106070021,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100110,
+        "AmountMin": 3,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106070022": {
+    "RewardID": 106070022,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100111,
+        "AmountMin": 3,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "106070023": {
+    "RewardID": 106070023,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100112,
         "AmountMin": 3,
         "AmountMax": 0
       }
@@ -73349,6 +76747,204 @@
       },
       {
         "ItemID": 3510013,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107020046": {
+    "RewardID": 107020046,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100123,
+        "AmountMin": 3,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107020047": {
+    "RewardID": 107020047,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 1002961,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107020048": {
+    "RewardID": 107020048,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 3510014,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107020049": {
+    "RewardID": 107020049,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100120,
+        "AmountMin": 3,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107020050": {
+    "RewardID": 107020050,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 1002962,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107020051": {
+    "RewardID": 107020051,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 3510016,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107020052": {
+    "RewardID": 107020052,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100123,
+        "AmountMin": 3,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107020053": {
+    "RewardID": 107020053,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 1002963,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107020054": {
+    "RewardID": 107020054,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 30,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 15000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 3510015,
         "AmountMin": 1,
         "AmountMax": 0
       }
@@ -80587,6 +84183,182 @@
     ],
     "GPCBJFCBAJL": ""
   },
+  "107070097": {
+    "RewardID": 107070097,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107070098": {
+    "RewardID": 107070098,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301002,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107070099": {
+    "RewardID": 107070099,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107070100": {
+    "RewardID": 107070100,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301002,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107070101": {
+    "RewardID": 107070101,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107070102": {
+    "RewardID": 107070102,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301002,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107070103": {
+    "RewardID": 107070103,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "107070104": {
+    "RewardID": 107070104,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 301002,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
   "109020001": {
     "RewardID": 109020001,
     "ItemGroups": [],
@@ -81051,6 +84823,42 @@
     ],
     "GPCBJFCBAJL": ""
   },
+  "109021015": {
+    "RewardID": 109021015,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 12500,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "109021016": {
+    "RewardID": 109021016,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 12500,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "109021017": {
+    "RewardID": 109021017,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 12500,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
   "109029001": {
     "RewardID": 109029001,
     "ItemGroups": [],
@@ -81498,6 +85306,33 @@
       {
         "ItemID": 10,
         "AmountMin": 500,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110010056": {
+    "RewardID": 110010056,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 1000006,
+        "AmountMin": 10,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 1000005,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 404,
+        "AmountMin": 130,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 50000,
         "AmountMax": 0
       }
     ],
@@ -84505,6 +88340,354 @@
     ],
     "GPCBJFCBAJL": ""
   },
+  "110013016": {
+    "RewardID": 110013016,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 150,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013017": {
+    "RewardID": 110013017,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 150,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013018": {
+    "RewardID": 110013018,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 150,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013019": {
+    "RewardID": 110013019,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 150,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013020": {
+    "RewardID": 110013020,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 150,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013021": {
+    "RewardID": 110013021,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 201,
+        "AmountMin": 150,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 10,
+        "AmountMin": 5000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013030": {
+    "RewardID": 110013030,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013031": {
+    "RewardID": 110013031,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013032": {
+    "RewardID": 110013032,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013033": {
+    "RewardID": 110013033,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013034": {
+    "RewardID": 110013034,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013035": {
+    "RewardID": 110013035,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013036": {
+    "RewardID": 110013036,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013037": {
+    "RewardID": 110013037,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013038": {
+    "RewardID": 110013038,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013039": {
+    "RewardID": 110013039,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013040": {
+    "RewardID": 110013040,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013041": {
+    "RewardID": 110013041,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013042": {
+    "RewardID": 110013042,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013043": {
+    "RewardID": 110013043,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013044": {
+    "RewardID": 110013044,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013045": {
+    "RewardID": 110013045,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013046": {
+    "RewardID": 110013046,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110013047": {
+    "RewardID": 110013047,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 2000,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
   "110020001": {
     "RewardID": 110020001,
     "ItemGroups": [],
@@ -84637,6 +88820,138 @@
     ],
     "GPCBJFCBAJL": ""
   },
+  "110020007": {
+    "RewardID": 110020007,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 3,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100212,
+        "AmountMin": 6,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110020008": {
+    "RewardID": 110020008,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100212,
+        "AmountMin": 4,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110020009": {
+    "RewardID": 110020009,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100211,
+        "AmountMin": 4,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110020010": {
+    "RewardID": 110020010,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 100,
+        "AmountMin": 20,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 3,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100213,
+        "AmountMin": 6,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110020011": {
+    "RewardID": 110020011,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100215,
+        "AmountMin": 4,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "110020012": {
+    "RewardID": 110020012,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 10,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 300002,
+        "AmountMin": 2,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100211,
+        "AmountMin": 4,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
   "112010001": {
     "RewardID": 112010001,
     "ItemGroups": [],
@@ -84663,6 +88978,38 @@
       },
       {
         "ItemID": 3300002,
+        "AmountMin": 1,
+        "AmountMax": 0
+      }
+    ],
+    "GPCBJFCBAJL": ""
+  },
+  "112010002": {
+    "RewardID": 112010002,
+    "ItemGroups": [],
+    "RewardsList": [
+      {
+        "ItemID": 3000103,
+        "AmountMin": 10000,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 3201002,
+        "AmountMin": 1,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 100,
+        "AmountMin": 200,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 502,
+        "AmountMin": 5,
+        "AmountMax": 0
+      },
+      {
+        "ItemID": 3300003,
         "AmountMin": 1,
         "AmountMax": 0
       }

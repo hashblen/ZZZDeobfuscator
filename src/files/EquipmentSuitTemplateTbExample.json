@@ -17,5 +17,6 @@
   "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWoodpeckerElectro_S.png",
   "SuitStory": "EquipmentSuit_31000_story",
   "SuitFilterOption": "EquipmentSuit_31000_SuitFilterOption",
-  "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWoodpeckerElectro.png"
+  "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWoodpeckerElectro.png",
+  "EFMEKILCAFA": false
 }

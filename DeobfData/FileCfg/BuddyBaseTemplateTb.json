@@ -155,6 +155,18 @@
     "SmallIconPath": "",
     "ANDDIMCDBME": 2166541009547495725
   },
+  "53013": {
+    "ID": 53013,
+    "AJJFPBJJLFH": 2,
+    "ECHNDHDIIAC": 0,
+    "OHLKAFPBJHD": 0,
+    "GDDJBFHBJNK": 1,
+    "CodeName": "Bangboo_Name_en_53013",
+    "Name": "Bangboo_Name_53013",
+    "AudioBank": "BK_Eous",
+    "SmallIconPath": "",
+    "ANDDIMCDBME": 3370125787283709880
+  },
   "54001": {
     "ID": 54001,
     "AJJFPBJJLFH": 2,
@@ -250,6 +262,18 @@
     "AudioBank": "BK_Eous",
     "SmallIconPath": "",
     "ANDDIMCDBME": 4565374391606395253
+  },
+  "54012": {
+    "ID": 54012,
+    "AJJFPBJJLFH": 2,
+    "ECHNDHDIIAC": 7,
+    "OHLKAFPBJHD": 0,
+    "GDDJBFHBJNK": 1,
+    "CodeName": "Bangboo_Name_en_54012",
+    "Name": "Bangboo_Name_54012",
+    "AudioBank": "BK_Eous",
+    "SmallIconPath": "",
+    "ANDDIMCDBME": 11537924661782188878
   },
   "54013": {
     "ID": 54013,
