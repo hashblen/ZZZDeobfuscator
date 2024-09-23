@@ -10,7 +10,11 @@ if __name__ == '__main__':
     key_mappings = {}
     for filename, make_id in pairs.items():
         deobfer = Deobf(filename)
-        deobfer.do(makeID=make_id if make_id != "None" else None)
+        try:
+            deobfer.do(makeID=make_id if make_id != "None" else None)
+        except KeyError as e:
+            print(filename, str(e))
+            continue
         for k1, v1 in key_mappings.items():
             for k2, v2 in deobfer.key_mapping.items():
                 if k1 != k2 and v1 == v2:

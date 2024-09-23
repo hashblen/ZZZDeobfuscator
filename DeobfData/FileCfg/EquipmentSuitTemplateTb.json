@@ -9,17 +9,38 @@
         "Value": 800
       }
     ],
-    "ACIOBDLFFOK": 0,
     "TwoPieceDescription": "EquipmentSuit_31000_2_des",
     "MIDOKLFEFOB": 4,
     "HFFKEDDJFEF": [],
-    "SuitAbilityID": 50431000,
     "FourPieceDecription": "EquipmentSuit_31000_4_des",
     "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWoodpeckerElectro.png",
     "SuitStory": "EquipmentSuit_31000_story",
     "SuitFilterOption": "EquipmentSuit_31000_SuitFilterOption",
     "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWoodpeckerElectro.png",
-    "EFMEKILCAFA": false
+    "GOEODGELILI": 12,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50431000
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      831020,
+      831030,
+      831040
+    ],
+    "KLEMNBJIMLL": [
+      31041,
+      31042,
+      31043,
+      31044,
+      31045,
+      31046
+    ]
   },
   "31100": {
     "ID": 31100,
@@ -31,17 +52,38 @@
         "Value": 800
       }
     ],
-    "ACIOBDLFFOK": 0,
     "TwoPieceDescription": "EquipmentSuit_31100_2_des",
     "MIDOKLFEFOB": 4,
     "HFFKEDDJFEF": [],
-    "SuitAbilityID": 50431100,
     "FourPieceDecription": "EquipmentSuit_31100_4_des",
     "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitPufferElectro.png",
     "SuitStory": "EquipmentSuit_31100_story",
     "SuitFilterOption": "EquipmentSuit_31100_SuitFilterOption",
     "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitPufferElectro.png",
-    "EFMEKILCAFA": false
+    "GOEODGELILI": 11,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50431100
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      831120,
+      831130,
+      831140
+    ],
+    "KLEMNBJIMLL": [
+      31141,
+      31142,
+      31143,
+      31144,
+      31145,
+      31146
+    ]
   },
   "31200": {
     "ID": 31200,
@@ -53,17 +95,38 @@
         "Value": 600
       }
     ],
-    "ACIOBDLFFOK": 0,
     "TwoPieceDescription": "EquipmentSuit_31200_2_des",
     "MIDOKLFEFOB": 4,
     "HFFKEDDJFEF": [],
-    "SuitAbilityID": 50431200,
     "FourPieceDecription": "EquipmentSuit_31200_4_des",
     "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShockstarDisco.png",
     "SuitStory": "EquipmentSuit_31200_story",
     "SuitFilterOption": "EquipmentSuit_31200_SuitFilterOption",
     "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShockstarDisco.png",
-    "EFMEKILCAFA": false
+    "GOEODGELILI": 10,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50431200
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      831220,
+      831230,
+      831240
+    ],
+    "KLEMNBJIMLL": [
+      31241,
+      31242,
+      31243,
+      31244,
+      31245,
+      31246
+    ]
   },
   "31300": {
     "ID": 31300,
@@ -75,17 +138,38 @@
         "Value": 30
       }
     ],
-    "ACIOBDLFFOK": 0,
     "TwoPieceDescription": "EquipmentSuit_31300_2_des",
     "MIDOKLFEFOB": 4,
     "HFFKEDDJFEF": [],
-    "SuitAbilityID": 50431300,
     "FourPieceDecription": "EquipmentSuit_31300_4_des",
     "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFreedomBlues.png",
     "SuitStory": "EquipmentSuit_31300_story",
     "SuitFilterOption": "EquipmentSuit_31300_SuitFilterOption",
     "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFreedomBlues.png",
-    "EFMEKILCAFA": false
+    "GOEODGELILI": 9,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50431300
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      831320,
+      831330,
+      831340
+    ],
+    "KLEMNBJIMLL": [
+      31341,
+      31342,
+      31343,
+      31344,
+      31345,
+      31346
+    ]
   },
   "31400": {
     "ID": 31400,
@@ -97,17 +181,38 @@
         "Value": 1000
       }
     ],
-    "ACIOBDLFFOK": 0,
     "TwoPieceDescription": "EquipmentSuit_31400_2_des",
     "MIDOKLFEFOB": 4,
     "HFFKEDDJFEF": [],
-    "SuitAbilityID": 50431400,
     "FourPieceDecription": "EquipmentSuit_31400_4_des",
     "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png",
     "SuitStory": "EquipmentSuit_31400_story",
     "SuitFilterOption": "EquipmentSuit_31400_SuitFilterOption",
     "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png",
-    "EFMEKILCAFA": false
+    "GOEODGELILI": 8,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50431400
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      831420,
+      831430,
+      831440
+    ],
+    "KLEMNBJIMLL": [
+      31441,
+      31442,
+      31443,
+      31444,
+      31445,
+      31446
+    ]
   },
   "31500": {
     "ID": 31500,
@@ -119,17 +224,38 @@
         "Value": 1600
       }
     ],
-    "ACIOBDLFFOK": 0,
     "TwoPieceDescription": "EquipmentSuit_31500_2_des",
     "MIDOKLFEFOB": 4,
     "HFFKEDDJFEF": [],
-    "SuitAbilityID": 50431500,
     "FourPieceDecription": "EquipmentSuit_31500_4_des",
     "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSoulRock.png",
     "SuitStory": "EquipmentSuit_31500_story",
     "SuitFilterOption": "EquipmentSuit_31500_SuitFilterOption",
     "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSoulRock.png",
-    "EFMEKILCAFA": false
+    "GOEODGELILI": 7,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50431500
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      831520,
+      831530,
+      831540
+    ],
+    "KLEMNBJIMLL": [
+      31541,
+      31542,
+      31543,
+      31544,
+      31545,
+      31546
+    ]
   },
   "31600": {
     "ID": 31600,
@@ -141,17 +267,121 @@
         "Value": 2000
       }
     ],
-    "ACIOBDLFFOK": 0,
     "TwoPieceDescription": "EquipmentSuit_31600_2_des",
     "MIDOKLFEFOB": 4,
     "HFFKEDDJFEF": [],
-    "SuitAbilityID": 50431600,
     "FourPieceDecription": "EquipmentSuit_31600_4_des",
     "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSwingJazz.png",
     "SuitStory": "EquipmentSuit_31600_story",
     "SuitFilterOption": "EquipmentSuit_31600_SuitFilterOption",
     "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSwingJazz.png",
-    "EFMEKILCAFA": false
+    "GOEODGELILI": 6,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50431600
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      831620,
+      831630,
+      831640
+    ],
+    "KLEMNBJIMLL": [
+      31641,
+      31642,
+      31643,
+      31644,
+      31645,
+      31646
+    ]
+  },
+  "31800": {
+    "ID": 31800,
+    "Name": "EquipmentSuit_31800_name",
+    "Condition": 2,
+    "SuitPropertys": [
+      {
+        "Property": 31203,
+        "Value": 30
+      }
+    ],
+    "TwoPieceDescription": "EquipmentSuit_31800_2_des",
+    "MIDOKLFEFOB": 4,
+    "HFFKEDDJFEF": [],
+    "FourPieceDecription": "EquipmentSuit_31800_4_des",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosJazz.png",
+    "SuitStory": "EquipmentSuit_31800_story",
+    "SuitFilterOption": "EquipmentSuit_31800_SuitFilterOption",
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosJazz.png",
+    "GOEODGELILI": 22,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50431800
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      831820,
+      831830,
+      831840
+    ],
+    "KLEMNBJIMLL": [
+      31841,
+      31842,
+      31843,
+      31844,
+      31845,
+      31846
+    ]
+  },
+  "31900": {
+    "ID": 31900,
+    "Name": "EquipmentSuit_31900_name",
+    "Condition": 2,
+    "SuitPropertys": [],
+    "TwoPieceDescription": "EquipmentSuit_31900_2_des",
+    "MIDOKLFEFOB": 4,
+    "HFFKEDDJFEF": [],
+    "FourPieceDecription": "EquipmentSuit_31900_4_des",
+    "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitProtoPunk.png",
+    "SuitStory": "EquipmentSuit_31900_story",
+    "SuitFilterOption": "EquipmentSuit_31900_SuitFilterOption",
+    "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitProtoPunk.png",
+    "GOEODGELILI": 21,
+    "MNEIINEAOOH": [
+      50431901
+    ],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50431900
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      831920,
+      831930,
+      831940
+    ],
+    "KLEMNBJIMLL": [
+      31941,
+      31942,
+      31943,
+      31944,
+      31945,
+      31946
+    ]
   },
   "32200": {
     "ID": 32200,
@@ -163,17 +393,38 @@
         "Value": 1000
       }
     ],
-    "ACIOBDLFFOK": 0,
     "TwoPieceDescription": "EquipmentSuit_32200_2_des",
     "MIDOKLFEFOB": 4,
     "HFFKEDDJFEF": [],
-    "SuitAbilityID": 50432200,
     "FourPieceDecription": "EquipmentSuit_32200_4_des",
     "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitInfernoMetal.png",
     "SuitStory": "EquipmentSuit_32200_story",
     "SuitFilterOption": "EquipmentSuit_32200_SuitFilterOption",
     "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitInfernoMetal.png",
-    "EFMEKILCAFA": false
+    "GOEODGELILI": 5,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50432200
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      832220,
+      832230,
+      832240
+    ],
+    "KLEMNBJIMLL": [
+      32241,
+      32242,
+      32243,
+      32244,
+      32245,
+      32246
+    ]
   },
   "32300": {
     "ID": 32300,
@@ -185,17 +436,38 @@
         "Value": 1000
       }
     ],
-    "ACIOBDLFFOK": 0,
     "TwoPieceDescription": "EquipmentSuit_32300_2_des",
     "MIDOKLFEFOB": 4,
     "HFFKEDDJFEF": [],
-    "SuitAbilityID": 50432300,
     "FourPieceDecription": "EquipmentSuit_32300_4_des",
     "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosMetal.png",
     "SuitStory": "EquipmentSuit_32300_story",
     "SuitFilterOption": "EquipmentSuit_32300_SuitFilterOption",
     "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosMetal.png",
-    "EFMEKILCAFA": false
+    "GOEODGELILI": 4,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50432300
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      832320,
+      832330,
+      832340
+    ],
+    "KLEMNBJIMLL": [
+      32341,
+      32342,
+      32343,
+      32344,
+      32345,
+      32346
+    ]
   },
   "32400": {
     "ID": 32400,
@@ -207,17 +479,38 @@
         "Value": 1000
       }
     ],
-    "ACIOBDLFFOK": 0,
     "TwoPieceDescription": "EquipmentSuit_32400_2_des",
     "MIDOKLFEFOB": 4,
     "HFFKEDDJFEF": [],
-    "SuitAbilityID": 50432400,
     "FourPieceDecription": "EquipmentSuit_32400_4_des",
     "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitThunderMetal.png",
     "SuitStory": "EquipmentSuit_32400_story",
     "SuitFilterOption": "EquipmentSuit_32400_SuitFilterOption",
     "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitThunderMetal.png",
-    "EFMEKILCAFA": false
+    "GOEODGELILI": 3,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50432400
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      832420,
+      832430,
+      832440
+    ],
+    "KLEMNBJIMLL": [
+      32441,
+      32442,
+      32443,
+      32444,
+      32445,
+      32446
+    ]
   },
   "32500": {
     "ID": 32500,
@@ -229,17 +522,38 @@
         "Value": 1000
       }
     ],
-    "ACIOBDLFFOK": 0,
     "TwoPieceDescription": "EquipmentSuit_32500_2_des",
     "MIDOKLFEFOB": 4,
     "HFFKEDDJFEF": [],
-    "SuitAbilityID": 50432500,
     "FourPieceDecription": "EquipmentSuit_32500_4_des",
     "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitPolarMetal.png",
     "SuitStory": "EquipmentSuit_32500_story",
     "SuitFilterOption": "EquipmentSuit_32500_SuitFilterOption",
     "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitPolarMetal.png",
-    "EFMEKILCAFA": false
+    "GOEODGELILI": 2,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50432500
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      832520,
+      832530,
+      832540
+    ],
+    "KLEMNBJIMLL": [
+      32541,
+      32542,
+      32543,
+      32544,
+      32545,
+      32546
+    ]
   },
   "32600": {
     "ID": 32600,
@@ -251,16 +565,37 @@
         "Value": 1000
       }
     ],
-    "ACIOBDLFFOK": 0,
     "TwoPieceDescription": "EquipmentSuit_32600_2_des",
     "MIDOKLFEFOB": 4,
     "HFFKEDDJFEF": [],
-    "SuitAbilityID": 50432600,
     "FourPieceDecription": "EquipmentSuit_32600_4_des",
     "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFangedMetal.png",
     "SuitStory": "EquipmentSuit_32600_story",
     "SuitFilterOption": "EquipmentSuit_32600_SuitFilterOption",
     "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFangedMetal.png",
-    "EFMEKILCAFA": false
+    "GOEODGELILI": 1,
+    "MNEIINEAOOH": [],
+    "AGPMAEDCDGH": [
+      false
+    ],
+    "SuitAbilities": [
+      50432600
+    ],
+    "CHMMJPJBLDH": [
+      false
+    ],
+    "DIJLNCDCDMG": [
+      832620,
+      832630,
+      832640
+    ],
+    "KLEMNBJIMLL": [
+      32641,
+      32642,
+      32643,
+      32644,
+      32645,
+      32646
+    ]
   }
 }

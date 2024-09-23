@@ -1516,6 +1516,43 @@
     "AvatarID": 1041,
     "WeaponComment": "Weapon_S_1041_Comment"
   },
+  "14107": {
+    "ItemID": 14107,
+    "CodeName": "Weapon_S_1071",
+    "Type": 0,
+    "BaseProperty": {
+      "Property": 12101,
+      "Value": 48
+    },
+    "RandProperty": {
+      "Property": 12202,
+      "Value": 720
+    },
+    "StarLimit": 4,
+    "ExpRecycle": 30000,
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_1071",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_1071",
+    "NGDEOGDBFEB": 1,
+    "GMAKJBPAACK": "Weapon/Weapon_S_1071",
+    "RefineCosts": [
+      {
+        "ItemID": 10,
+        "Number": 2000
+      }
+    ],
+    "RefineInitial": 1,
+    "RefineLimit": 5,
+    "EPPLIFAMAEJ": 0,
+    "IOGIHONJOMF": 0,
+    "CHFEMALKLBL": "10:12000,101014:4|10:28000,101024:12|10:60000,101024:20|10:100000,101034:10|10:200000,101034:20",
+    "JHLGOMEOANO": 0,
+    "LJONANJGEOI": 5,
+    "AbilityDes": "Item_Weapon_S_1071_Desc",
+    "DBIIAEFJHDA": "",
+    "GDHEDCOCFAF": "",
+    "AvatarID": 1071,
+    "WeaponComment": "Weapon_S_1071_Comment"
+  },
   "14110": {
     "ItemID": 14110,
     "CodeName": "Weapon_S_1101",
@@ -1589,6 +1626,43 @@
     "GDHEDCOCFAF": "",
     "AvatarID": 1141,
     "WeaponComment": "Weapon_S_1141_Comment"
+  },
+  "14117": {
+    "ItemID": 14117,
+    "CodeName": "Weapon_S_1171",
+    "Type": 0,
+    "BaseProperty": {
+      "Property": 12101,
+      "Value": 48
+    },
+    "RandProperty": {
+      "Property": 12102,
+      "Value": 1200
+    },
+    "StarLimit": 4,
+    "ExpRecycle": 30000,
+    "ScriptConfigPath": "Data/ScriptConfig/Character/Weapon_S_1171",
+    "PrefabPath": "UI/3D/Weapon/Weapon_S_1171",
+    "NGDEOGDBFEB": 1,
+    "GMAKJBPAACK": "Weapon/Weapon_S_1171",
+    "RefineCosts": [
+      {
+        "ItemID": 10,
+        "Number": 2000
+      }
+    ],
+    "RefineInitial": 1,
+    "RefineLimit": 5,
+    "EPPLIFAMAEJ": 0,
+    "IOGIHONJOMF": 0,
+    "CHFEMALKLBL": "10:12000,101012:4|10:28000,101022:12|10:60000,101022:20|10:100000,101032:10|10:200000,101032:20",
+    "JHLGOMEOANO": 0,
+    "LJONANJGEOI": 3,
+    "AbilityDes": "Item_Weapon_S_1171_Desc",
+    "DBIIAEFJHDA": "Burnice_release",
+    "GDHEDCOCFAF": "",
+    "AvatarID": 1171,
+    "WeaponComment": "Weapon_S_1171_Comment"
   },
   "14118": {
     "ItemID": 14118,

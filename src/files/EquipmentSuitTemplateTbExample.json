@@ -8,15 +8,36 @@
       "Value": 800
     }
   ],
-  "ACIOBDLFFOK": 0,
   "TwoPieceDescription": "EquipmentSuit_31000_2_des",
   "MIDOKLFEFOB": 4,
   "HFFKEDDJFEF": [],
-  "SuitAbilityID": 50431000,
   "FourPieceDecription": "EquipmentSuit_31000_4_des",
-  "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/ItemIconSuit/UnPacker/ItemSuitWoodpeckerElectro_S.png",
+  "DiskIconItemPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWoodpeckerElectro.png",
   "SuitStory": "EquipmentSuit_31000_story",
   "SuitFilterOption": "EquipmentSuit_31000_SuitFilterOption",
   "DiskIconPath": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWoodpeckerElectro.png",
-  "EFMEKILCAFA": false
+  "GOEODGELILI": 12,
+  "MNEIINEAOOH": [],
+  "AGPMAEDCDGH": [
+    false
+  ],
+  "SuitAbilities": [
+    50431000
+  ],
+  "CHMMJPJBLDH": [
+    false
+  ],
+  "DIJLNCDCDMG": [
+    831020,
+    831030,
+    831040
+  ],
+  "KLEMNBJIMLL": [
+    31041,
+    31042,
+    31043,
+    31044,
+    31045,
+    31046
+  ]
 }

@@ -333,7 +333,7 @@
     "Camp": 4,
     "HMPHAKDLANI": [
       "1:4:2",
-      "2:201:2"
+      "3:3:2"
     ]
   },
   "1181": {
@@ -544,6 +544,27 @@
     "HMPHAKDLANI": [
       "1:4:2",
       "2:200:2"
+    ]
+  },
+  "1351": {
+    "ID": 1351,
+    "CodeName": "Avatar_Female_Size03_Pulchra_En",
+    "Name": "Avatar_Female_Size03_Pulchra",
+    "FullName": "Avatar_Female_Size03_Pulchra_FullName",
+    "AudioEventReplaceParam": "Pulchra",
+    "AudioBank": "BK_Pulchra|BK_CHR_Common|BK_Pulchra_VO",
+    "HitTypes": [
+      101
+    ],
+    "ElementTypes": [
+      203
+    ],
+    "FCDEDAOHMIO": 2,
+    "Gender": 2,
+    "Camp": 1,
+    "HMPHAKDLANI": [
+      "1:1:2",
+      "2:203:2"
     ]
   },
   "2011": {

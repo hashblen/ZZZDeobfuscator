@@ -185,6 +185,12 @@
     "GIOPHBLNJAB": 0,
     "DGLABLAJHAK": 0
   },
+  "38": {
+    "Class": 38,
+    "ClassNameEn": "ItemClass_name_38",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 0
+  },
   "51": {
     "Class": 51,
     "ClassNameEn": "ItemClass_name_51",
@@ -272,6 +278,12 @@
   "73": {
     "Class": 73,
     "ClassNameEn": "ItemClass_name_10",
+    "GIOPHBLNJAB": 0,
+    "DGLABLAJHAK": 999993
+  },
+  "76": {
+    "Class": 76,
+    "ClassNameEn": "ItemClass_name_76",
     "GIOPHBLNJAB": 0,
     "DGLABLAJHAK": 999993
   }
